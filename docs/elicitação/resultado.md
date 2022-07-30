@@ -37,7 +37,6 @@ RNF = Requisitos Não-Funcionais
 | RF20 |Deve ser possível emitir o ATPV                                                    |Brainstorm|
 | RF21 |Deve ser possível agendar vistorias veiculares                                     |Brainstorm|
 | RF22 |Deve ser possível emitir CNH eletrônica                                            |Brainstorm|
-| RF24 |Deve ser possível consultar pontuação de infrações associadas ao condutor          |Brainstorm|
 | RF23 |Deve ser possível consultar informações sobre bloqueios                            |Brainstorm|
 | RF24 |Deve ser possível consultar informações sobre ocorrências                          |Brainstorm|
 | RF25 |Deve ser possível emitir documento de nada consta                                  |Brainstorm|
@@ -62,6 +61,7 @@ RNF = Requisitos Não-Funcionais
 | RF44 |Deve ser possível reenviar e-mail de validação                                     |Brainstorm|
 | RF45 |Deve ser possível cadastrar biometria                                              |Brainstorm|
 | RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               |Brainstorm|
+| RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          |Brainstorm|
 | RF48 |Deve ser possível cadastrar uma senha                                              |Brainstorm|
 
 
