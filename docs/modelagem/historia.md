@@ -1,3 +1,10 @@
+## 1. Introdução
+
+História de usuário é um tipo de narrativa simples que ilustra um requisito do usuário da perspectiva de uma persona ou cliente, fazem parte de uma estrutura ágil e explicação informal. Um dos objetivos das histórias é mostrar como uma tarefa entregará determinado valor ao usuário.
+
+As histórias de usuário possuem um ator(eu, como **usuário**), uma função(gostaria de **criar uma conta**) e uma razão(**para ter acesso a todas as funções do aplicativo**). As histórias de usuário também possuem critérios de aceitação, que definem as condições para que aquela história seja considerada entregue.
+
+## 2. **Histórias de usuários**
 
 <center>
 
@@ -13,3 +20,9 @@
 |US8|Eu, como usuário gostaria de marcar vistoria para o veículo |- deve ser possível selecionar tipo de vistoria(transfeência de veículo, inclusão gravame e alteração de caracteristica)<br>- deve ser possível inserir placa e renavam do veículo|RF21|
 
 </center>
+
+## 3. Referências
+
+> User story. Software and Systems Engineering Vocabulary. Disponível em: <https://pascal.computer.org/sev_display/index.action>. Acesso em: 30/07/2022
+
+> User story. awari. Disponível em: <https://awari.com.br/user-story/>. Acesso em: 30/07/2022
