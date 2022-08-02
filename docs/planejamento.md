@@ -65,6 +65,17 @@ Abaixo seguem tabelas de atividades de acordo com suas reespectivas sprints:
 |Gravação da apresentação 2|Todos |Todos|12/07|
 <h6 align = "center">Tabela 3: Sprint 2</h6>
 
+### Sprint 3
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+|Criação do documento léxico |[Paulo Henrique](https://github.com/paulohgontijoo) e  [Christian Fleury](https://github.com/chfleury)|[Matheus Costa](https://github.com/mc-gomes)|17/07 |
+|Criação do documento de cenários |[Alex Gabriel](https://github.com/Gabriel-Axl)|[ Arthur Henrique ](https://github.com/black258br)|17/07 |
+|Criação do documento de casos de uso |[ Arthur Henrique ](https://github.com/black258br) e [Thiago Siqueira](https://github.com/thgomes)|[Alex Gabriel](https://github.com/Gabriel-Axl)|17/07 |
+|Criação do documento de especificação suplementar |[Matheus Costa](https://github.com/mc-gomes)|[Paulo Henrique](https://github.com/paulohgontijoo)|17/07 |
+|Gravar apresentação 3 |Todos|Todos|19/07 |
+<h6 align = "center">Tabela 4: Sprint 3</h6>
+
 ## 5. Horários disponíveis dos integrantes
 Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
 
@@ -104,3 +115,4 @@ Abaixo segue a tabela com a relação das ferramentas utilizadas, pelo nossa equ
 | <center>0.3 | 29/06/2022 | Adição das ferramentas            | Christian | Matheus |
 | <center>0.4 | 05/07/2022 | Correção do cronograma            | Alex      | Arthur  |
 | <center>0.5 | 12/07/2022 | Ajustes legendas tabelas e layout | Paulo     | Todos   |
+| <center>0.6 | 02/08/2022 | adição da sprint 3 | Alex     | Todos   |
