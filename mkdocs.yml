@@ -23,7 +23,7 @@ nav:
     - Casos de Uso: 'modelagem/casos.md'
     - Especificação Suplementar: 'modelagem/especificacao.md'
     - NFR Framework: 'modelagem/nfr.md'
-    - Backlog:
+    - Ágil:
       - Backlog do produto: 'modelagem/backlog.md'
       - Histórias de Usuário: 'modelagem/historia.md'
   - Apresentações: 'apresentacoes.md'
