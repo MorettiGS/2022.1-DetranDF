@@ -44,4 +44,5 @@ Legenda:
 
 |  Versão   | Data       | Descrição           | Autor  | Revisor|
 |:---------:|------------|---------------------|--------|--------|
-| 0.1 | 30/07/2022 | Criação do documento | Alex | Matheus   |
+| 0.1 | 30/07/2022 | Criação do documento, adição do tópico de Introdução e US's de 1 a 8 | Alex | Matheus  |
+| 0.2 | 01/08/2022 | Adição de US's de 9 a 12 | Matheus | Alex |
