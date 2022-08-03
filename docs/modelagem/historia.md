@@ -8,13 +8,19 @@ As histórias de usuário possuem um ator ("Eu, como **usuário**..."), uma fun�
 
 ## 2. Histórias de usuários
 
-Na tabela a seguir é possível ver as histórias de usuário, juntamente com seus critérios de aceitação e a rastreabilidade, que faz referência ao requisito ao qual foi baseada essa história.
+Nas tabelas a seguir será possível ver as Histórias de Usuário, juntamente com seus critérios de aceitação e a rastreabilidade, que faz referência ao requisito ao qual foi baseada essa história.
+
+As Histórias foram validadas por meio da técnica de personas, na qual os responsáveis, Alex e Matheus, interpretaram algumas das personas e a partir disso foram listados os critérios de aceitação. As gravações podem ser vistas [aqui]().
+
+As histórias de usuário foram divididas por Épicos, que podem ser visualizados na aba de [Backlog](backlog.md) onde são apresentados melhores descrições a seu respeito.
 
 Legenda:
 
 - US = identificador da História de usuário (_User Story_)
 
 ## 2.1 Épico 01: Login
+
+A tabela 1 abaixo apresenta as histórias relacionadas ao épico de Login.
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
@@ -25,6 +31,8 @@ Legenda:
 <h6 align = "center">Tabela 1: histórias de usuário do épico login</h6>
 
 ## 2.2 Épico 02: Habilitação
+
+A tabela 2 abaixo apresenta as histórias relacionadas ao épico de Habilitação.
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
@@ -37,6 +45,8 @@ Legenda:
 
 
 ## 2.3 Épico 03: Veículos
+
+A tabela 3 abaixo apresenta as histórias relacionadas ao épico de Veículos.
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
@@ -51,12 +61,17 @@ Legenda:
 
 ## 2.4 Épico 04: Agendamento
 
+A tabela 4 abaixo apresenta as histórias relacionadas ao épico de Agendamento.
+
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
 |US17|Eu, como usuário, gostaria de agendar atendimento presencial para realizar um serviço | - Deve ser possível inserir dados do usuário(nome, CPF, E-mail e telefone)<br>- Deve ser possível selecionar o serviço<br>- Deve ser possível escolher unidade de agendamento<br>- Deve ser possível escolher data de agendamento<br>- Deve ser possível escolher hora de agendamento<br>- Deve apresentar o endereço da unidade ao confimar cadastro de agendamento  |RF6, RF13, RF36, RF37, RF38, RF39, RF40|
 <h6 align = "center">Tabela 4: histórias de usuário do épico agendamento</h6>
 
 ## 2.5 Épico 05: Infrações
+
+A tabela 5 abaixo apresenta as histórias relacionadas ao épico de Infrações.
+
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
 |US18|Eu, como usuário, gostaria de visualizar a quantidade de pontos na minha carteira |- deve ser possível visualizar a quantidade total de infrações<br>- deve ser possível visualizar a quantidade total de pontos<br>- deve ser possível transferir a pontuação |RF5, RF12, RF32, RF34, RF33, RF47|
@@ -78,3 +93,4 @@ Legenda:
 | 0.2 | 01/08/2022 | Adição de US's de 9 a 12 | Matheus | Alex |
 | 0.3 | 02/08/2022 | Adição de US's de 13 a 19 | Matheus | Alex |
 | 0.4 | 03/08/2022 | Divisão das histórias de usuário por épico | Alex | Matheus |
+| 0.5 | 03/08/2022 | Adição de link para Backlog e chamada das tabelas | Matheus | Alex |
