@@ -20,12 +20,44 @@ proponha critérios mínimos para aceitação e defina a viabilidade da históri
 agregado ao produto de uma forma simples e leve.
 
 ### EP01: Conta
+### EP01: Conta
+
+| História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
+|:-:|:-:|:-:|:-:|:-:|
+| US01 | RF1 | Criar conta | Ter acesso ao sistema | Must |
+| US02 | RF2 | Realizar login | Acessar o conteúdo da plataforma | Must |
+| US03 | RF42| Alterar email | Ter acesso a plataforma | Must |
+| US04 | RF43 | Alterar senha | Utilizar uma nova senha para login | Must |
+| US05 | RF45 | Cadastrar biometria | Acessar plataforma por biometria | Must |
+| US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento pessoal | Must |
 
 ### EP02: Habilitação
 
+| História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
+|:-:|:-:|:-:|:-:|:-:|
+| US07 | RF3 | Visualizar CNH eletrônica | Ter acesso aos dados da CNH | Must |
+| US08 | RF8 | Solicitar segunda via da CNH | Receber uma nova CNH | Must |
+| US09 | RF28| Solicitar CNH definitiva | Receber a sua CNH definitiva | Must |
+| US10 | RF31 | Modificar endereço da CNH  | Trocar de endereço | Should |
+| US11 | RF20 | Emitir CNH | Ter acesso à CNH | Must |
+
 ### EP03: Veículos
+| História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
+|:-:|:-:|:-:|:-:|:-:|
+| US12 | RF11 | Consultar veículo | Ter acesso às informações do veículo | Must |
+| US13 | RF17 | Consultar histórico do veículo | Ter acesso ao histórico do veículo | Should |
+| US15 | RF29 | Solicitar estacionamento para idosos  | Ter authorização para estacionar em vagas reservadas | Must |
+| US16 | RF30 | Solicitar estacionamento para PCDs  | Ter authorização para estacionar em vagas reservadas | Must |
 
 ### EP05: Infrações
+| História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
+|:-:|:-:|:-:|:-:|:-:|
+| US17 | RF12 | Consultar infrações | Ter acesso às informações sobre infrações | Must |
+| US18 | RF14 | Consultar multas | Ter acesso as multas | Should |
+| US19 | RF24 | Consultar pontuação associada ao condutor  | Ter acesso à pontuação | Should |
+| US20 | RF33 | Transferir pontos de infração | Fazer a transferência dos pontos de infração| Should |
+| US21 | RF34 | Transferir titularidade de multa | Fazer a transferência da titularidade da multa| Should |
+| US22 | RF35 | Realizar pagamento de multa | Quitar uma multa | Should |
 
 ### EP05: Agendamentos
 
@@ -35,8 +67,9 @@ agregado ao produto de uma forma simples e leve.
 programs, and the enterprise. [S.l.]: Addison-Wesley Professional, 2010.
 
 ## Histórico de Versão
-| Versão |    Data    |      Descrição       |            Autor             | Revisor |
-|:------:|:----------:|:--------------------:|:----------------------------:|:-------:|
-|  0.1   | 01/08/2022 | Criação do documento | Paulo Gontijo e Thiago Gomes | Arthur  |
+| Versão | Data | Descrição | Autor | Revisor |
+|:-:|:-:|:-:|:-:|:-:|
+| 0.1 | 01/08/2022 | Criação do documento | Paulo Gotinjo e Thiago Gomes | Arthur|
+
 
 
