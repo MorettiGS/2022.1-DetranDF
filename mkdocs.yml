@@ -24,6 +24,11 @@ nav:
     - Especificação Suplementar: 'modelagem/especificacao.md'
     - NFR Framework: 'modelagem/nfr.md'
     - Backlog:
-      - Backlog do produto: 'modelagem/backlog.md'
+      - Backlog do produto: 'modelagem/backlog/backlog.md'
+      - EP01: 'modelagem/backlog/epConta.md'
+      - EP02: 'modelagem/backlog/epHabilitacao.md'
+      - EP03: 'modelagem/backlog/epVeiculo.md'
+      - EP04: 'modelagem/backlog/epInfracao.md'
+      - EP05: 'modelagem/backlog/epAgendamento.md'
       - Histórias de Usuário: 'modelagem/historia.md'
   - Apresentações: 'apresentacoes.md'

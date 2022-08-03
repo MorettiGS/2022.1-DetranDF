@@ -20,8 +20,6 @@ proponha critérios mínimos para aceitação e defina a viabilidade da históri
 agregado ao produto de uma forma simples e leve.
 
 ### EP01: Conta
-### EP01: Conta
-
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US01 | RF1 | Criar conta | Ter acesso ao sistema | Must |
@@ -32,7 +30,6 @@ agregado ao produto de uma forma simples e leve.
 | US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento pessoal | Must |
 
 ### EP02: Habilitação
-
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US07 | RF3 | Visualizar CNH eletrônica | Ter acesso aos dados da CNH | Must |
