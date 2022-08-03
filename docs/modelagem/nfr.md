@@ -85,3 +85,4 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 |:----:|:----------:|:---------         --:|:------------:|:-------:|
 | 0.1  | 02/08/2022 |Criação da página     | Arthur       |         |
 | 0.2  | 03/08/2022 |Adição dos requisitos utilizados e NFR Framework     | Christian       |         |
+| 0.3  | 03/08/2022 |Adição da metodologia | Arthur |       |
