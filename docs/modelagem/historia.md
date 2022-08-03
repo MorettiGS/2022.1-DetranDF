@@ -24,10 +24,10 @@ A tabela 1 abaixo apresenta as histórias relacionadas ao épico de Login.
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
-|US01|Eu, como usuário, gostaria de me registrar no aplicativo |- deve ser possível verficar o CPF ou CNPJ do usuário<br>- deve ser possível inserir um e-mail para cadastro<br>- deve ser possível informar uma senha<br>- deve ser possível recuperar a senha<br>-deve ser possível alterar o e-mail|RF1, RF46|
-|US02|Eu, como usuário, gostaria de realizar meu login no aplicativo |- deve ser possível inserir o CPF ou CNPJ do usuário<br>- deve ser possível informar a senha|RF2|
-|US03|Eu, como usuário, gostaria de alterar meu endereço |- deve ser possível visualizar o endereço que já está cadastrado<br>- deve ser possível alterar cada um dos campos que compõem o endereço|RF31|
-|US04|Eu, como usuário, gostaria de alterar meus dados cadastrais |- deve ser possível alterar o e-mail cadastrado<br>- deve ser possível alterar a senha cadastrada<br>- deve ser possível recuperar a senha do usuário<br>-deve ser possível deletar a conta|RF42, RF43, RF48|
+|US01|Eu, como usuário, gostaria de me registrar no aplicativo para ter acesso as funcionalidades|- deve ser possível verficar o CPF ou CNPJ do usuário<br>- deve ser possível inserir um e-mail para cadastro<br>- deve ser possível informar uma senha<br>- deve ser possível recuperar a senha<br>-deve ser possível alterar o e-mail|RF1, RF46|
+|US02|Eu, como usuário, gostaria de realizar meu login no aplicativo para ter acesso as funcionalidades com minha conta|- deve ser possível inserir o CPF ou CNPJ do usuário<br>- deve ser possível informar a senha|RF2|
+|US03|Eu, como usuário, gostaria de alterar meu endereço para ter meus dados atualizados  |- deve ser possível visualizar o endereço que já está cadastrado<br>- deve ser possível alterar cada um dos campos que compõem o endereço|RF31|
+|US04|Eu, como usuário, gostaria de alterar meus dados cadastrais para ter meus dados atualizados |- deve ser possível alterar o e-mail cadastrado<br>- deve ser possível alterar a senha cadastrada<br>- deve ser possível recuperar a senha do usuário<br>-deve ser possível deletar a conta|RF42, RF43, RF48|
 <h6 align = "center">Tabela 1: histórias de usuário do épico login</h6>
 
 ## 2.2 Épico 02: Habilitação
@@ -36,11 +36,11 @@ A tabela 2 abaixo apresenta as histórias relacionadas ao épico de Habilitaçã
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
-|US05|Eu, como usuário, gostaria de visualizar minha CNH eletrônica |- deve ser possível selecionar a opção de visualização<br>- deve ser possível visualizara CNH pelo aplicativo |RF3, RF10, RF22|
-|US06| Eu, como usuário, gostaria de solicitar minha 2a via de CNH |- deve ser possível preencher os dados para o envio da nova CNH<br>- deve ser possível gerar um boleto para o pagamento |RF8, RF28|
-|US07|Eu, como usuário, gostaria de sabe sobre o bloqueio da minha CNH |- deve ser possível saber se a CNH está bloqueada<br>- deve ser possível saber o motivo do bloqueio |RF23|
-|US08|Eu, como usuário, gostaria de saber informações sobre ocorrências |- deve ser possível visualizar se há uma ocorrência para o usuário logado<br>- deve ser possível realizar o Boletim de Ocorrência pelo aplicativo |RF24|
-|US09|Eu, como usuário, gostaria consultar o Nada Consta |- deve ser possível visualizar o documento<br>- deve ser possível emitir o documento|RF25|
+|US05|Eu, como usuário, gostaria de visualizar minha CNH eletrônica para ter acesso fácil as informações do meu documento|- deve ser possível selecionar a opção de visualização<br>- deve ser possível visualizara CNH pelo aplicativo |RF3, RF10, RF22|
+|US06| Eu, como usuário, gostaria de solicitar minha 2a via de CNH pelo aplicativo para não precisar ir até uma unidade de atendimento |- deve ser possível preencher os dados para o envio da nova CNH<br>- deve ser possível gerar um boleto para o pagamento |RF8, RF28|
+|US07|Eu, como usuário, gostaria de saber sobre o bloqueio da minha CNH para me manter informado |- deve ser possível saber se a CNH está bloqueada<br>- deve ser possível saber o motivo do bloqueio |RF23|
+|US08|Eu, como usuário, gostaria de saber informações sobre ocorrências para ter acesso às informações de forma rapida |- deve ser possível visualizar se há uma ocorrência para o usuário logado<br>- deve ser possível realizar o Boletim de Ocorrência pelo aplicativo |RF24|
+|US09|Eu, como usuário, gostaria consultar o Nada Consta para ter o documento em mãos caso necessário |- deve ser possível visualizar o documento<br>- deve ser possível emitir o documento|RF25|
 <h6 align = "center">Tabela 2: histórias de usuário do épico habilitação</h6>
 
 
@@ -74,8 +74,8 @@ A tabela 5 abaixo apresenta as histórias relacionadas ao épico de Infrações.
 
 | ID | História de usuário |Critérios de aceitação| Rastreabilidade |
 |----|----|----|----|
-|US18|Eu, como usuário, gostaria de visualizar a quantidade de pontos na minha carteira |- deve ser possível visualizar a quantidade total de infrações<br>- deve ser possível visualizar a quantidade total de pontos<br>- deve ser possível transferir a pontuação |RF5, RF12, RF32, RF34, RF33, RF47|
-|US19|Eu, como usuário, gostaria de visualizar minhas multas |- deve ser possível visualizar a quantidade total de multas<br>- deve ser possível saber o valor da multa<br>- deve ser possível gerar um boleto para o pagamento da multa |RF9, RF14, RF35|
+|US18|Eu, como usuário, gostaria de visualizar a quantidade de pontos na minha carteira para me manter atento à minha conduta |- deve ser possível visualizar a quantidade total de infrações<br>- deve ser possível visualizar a quantidade total de pontos<br>- deve ser possível transferir a pontuação |RF5, RF12, RF32, RF34, RF33, RF47|
+|US19|Eu, como usuário, gostaria de visualizar minhas multas para estar ciente das minha pendências |- deve ser possível visualizar a quantidade total de multas<br>- deve ser possível saber o valor da multa<br>- deve ser possível gerar um boleto para o pagamento da multa |RF9, RF14, RF35|
 <h6 align = "center">Tabela 5: histórias de usuário do épico infrações</h6>
 
 ## 3. Referências
