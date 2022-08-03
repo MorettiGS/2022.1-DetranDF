@@ -40,53 +40,37 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 
 ## 5. Resultados
 
-### 5.1 Compatibilidade
+### 5.1 Suportabilidade
 #### 5.1.1 Sem propagação
 <center>
-<img src="..\..\images\nfr\compatibilidade_sem.png">
+<img src="..\..\images\nfr\suportabilidade_sem.png">
 
-*Imagem 2: Diagrama de Compatibilidade sem propagação*
+*Imagem 2: Diagrama de Suportabilidade sem propagação*
 </center>
 
 #### 5.1.2 Com propagação
 <center>
-<img src="..\..\images\nfr\compatibilidade_com.png">
+<img src="..\..\images\nfr\suportabilidade_com.png">
 
-*Imagem 3: Diagrama de Compatibilidade com propagação*
+*Imagem 3: Diagrama de Suportabilidade com propagação*
 </center>
 
-### 5.2 Confiabilidade
+
+### 5.2 Performance
 #### 5.2.1 Sem propagação
 
 <center>
-<img src="..\..\images\nfr\confiabilidade_sem.png">
+<img src="..\..\images\nfr\performance_sem.png">
 
-*Imagem 4: Diagrama de Confiabilidade sem propagação*
+*Imagem 4: Diagrama de Performance sem propagação*
 </center>
 
 #### 5.2.2 Com propagação
 
 <center>
-<img src="..\..\images\nfr\confiabilidade_com.png">
-
-*Imagem 5: Diagrama de Confiabilidade com propagação*
-</center>
-
-### 5.3 Performance
-#### 5.3.1 Sem propagação
-
-<center>
-<img src="..\..\images\nfr\performance_sem.png">
-
-*Imagem 6: Diagrama de Performance sem propagação*
-</center>
-
-#### 5.3.2 Com propagação
-
-<center>
 <img src="..\..\images\nfr\performance_com.png">
 
-*Imagem 7: Diagrama de Performance com propagação*
+*Imagem 5: Diagrama de Performance com propagação*
 </center>
 
 ## 6. Referências Bibliográficas
@@ -103,4 +87,4 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 | 0.1  | 02/08/2022 |Criação da página     | Arthur       |         |
 | 0.2  | 03/08/2022 |Adição dos requisitos utilizados e NFR Framework     | Christian       |         |
 | 0.3  | 03/08/2022 |Adição da metodologia | Arthur |       |
-| 0.4  | 03/08/2022 |Adição das imagens 2-7    | Christian       |         |
+| 0.4  | 03/08/2022 |Adição das imagens 2-5    | Christian       |         |
