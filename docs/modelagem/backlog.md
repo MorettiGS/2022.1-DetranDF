@@ -1,0 +1,3 @@
+# Backlog
+## 1. Introdução
+O Product Backlog é uma lista de itens a serem implementados dentro de desenvolvimento de software, em que os intens são priorizados de acordo com o valor que cada funcionalidade agrega para o cliente. O backlog é atualizado e sofre alterações durante o processo de desenvolvimento, de acordo com o andamento do projeto. Dentro de uma abordagem Ágil, os itens dos backlog são desenvolvidos ao longo de Sprints, que englobam determinada quantidade de itens do Backlog.
