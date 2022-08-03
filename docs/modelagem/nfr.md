@@ -6,6 +6,7 @@ NFR Framework, que significa Non-Functional Requirements ou Framework de requisi
 Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema.(SILVA, 2019, p. 30).
 
 ## 2. Metodologia
+Para a criação desta documentação foi utilizado esse metodo de NFR Framework para definir as funcionalidades dos requisitos não-funcionais através de usos de diagramas e tabelas que foram elaborados a partir de análises das funcionalidades do aplicativo do DetranDF.
 
 ## 3. Requisitos Utilizados
 Na Tabela 1 estão listados os requisitos não-funcionais elicitados no projeto, que serão analisados e representados através da abordagem do NFR Framework.
@@ -27,6 +28,7 @@ Na Tabela 1 estão listados os requisitos não-funcionais elicitados no projeto,
 ### 4.1 Definição
 
 O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão.
+
 ### 4.2 Legenda
 
 <center>
@@ -100,4 +102,5 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 |:----:|:----------:|:---------         --:|:------------:|:-------:|
 | 0.1  | 02/08/2022 |Criação da página     | Arthur       |         |
 | 0.2  | 03/08/2022 |Adição dos requisitos utilizados e NFR Framework     | Christian       |         |
-| 0.3  | 03/08/2022 |Adição das imagens 2-7    | Christian       |         |
+| 0.3  | 03/08/2022 |Adição da metodologia | Arthur |       |
+| 0.4  | 03/08/2022 |Adição das imagens 2-7    | Christian       |         |
