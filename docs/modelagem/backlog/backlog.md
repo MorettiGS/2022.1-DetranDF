@@ -26,10 +26,10 @@ A tabela abaixo ilustra a lógica de contrução do épico **Conta**:
 |:-:|:-:|:-:|:-:|:-:|
 | US01 | RF1 | Criar conta | Ter acesso ao sistema | Must |
 | US02 | RF2 | Realizar login | Acessar o conteúdo da plataforma | Must |
-| US03 | RF42| Alterar email | Ter acesso a plataforma | Must |
+| US03 | RF42| Alterar email | Utilizar um novo email no sistema | Must |
 | US04 | RF43 | Alterar senha | Utilizar uma nova senha para login | Must |
 | US05 | RF45 | Cadastrar biometria | Acessar plataforma por biometria | Must |
-| US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento pessoal | Must |
+| US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento de usuário | Must |
 <h6 align = "center"> Tabela 1: Épico de Contas</h6>
 
 ### 3.2. EP02 - Habilitação

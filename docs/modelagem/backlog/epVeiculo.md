@@ -23,23 +23,23 @@ Eu, como **usuário** gostaria de **consultar histórico do veículo** para pode
 * Usuário deve poder selecionar opção de histórico de veículo
 * O sistema deve exibir informações do histórico do veículo
 
-## 2. US15
+## 3. US15
 Eu, como **usuário** gostaria de **solicitar estacionamento para idosos** para poder **ter autorização para estacionar em vagas reservadas**.
-### 2.1. Critérios de avaliação
+### 3.1. Critérios de avaliação
 * O usuário deve preecher informações para a solicitação de vaga para idosos.
 * O sistema deve verificar a validade das inforamações fornecidas pelo usuário.
 * Caso passe na verificação a autorização para estacionar em vagas reservadas deve ser liberado.
 * Caso não passe na verificação a solicitação deve ser negada.
 
-## 2. US16
+## 4. US16
 Eu, como **usuário** gostaria de **solicitar estacionamento para PCDs** para poder **ter autorização para estacionar em vagas reservadas**.
-### 2.1. Critérios de avaliação
+### 4.1. Critérios de avaliação
 * O usuário deve preecher informações para a solicitação de vaga para PCDs.
 * O sistema deve verificar a validade das inforamações fornecidas pelo usuário.
 * Caso passe na verificação a autorização para estacionar em vagas reservadas deve ser liberado.
 * Caso não passe na verificação a solicitação deve ser negada.
 
-## Histórico de Versão
+## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 01/08/2022 | Criação do documento | Thiago Gomes e Paulo Gontijo | Alex Gabriel e Matheus Costa |
