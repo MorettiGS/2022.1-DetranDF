@@ -10,9 +10,9 @@ As histórias de usuário possuem um ator ("Eu, como **usuário**..."), uma fun�
 
 Nas tabelas a seguir será possível ver as Histórias de Usuário, juntamente com seus critérios de aceitação e a rastreabilidade, que faz referência ao requisito ao qual foi baseada essa história.
 
-As Histórias foram validadas por meio da técnica de personas, na qual os responsáveis, Alex e Matheus, interpretaram algumas das personas e a partir disso foram listados os critérios de aceitação. As gravações podem ser vistas [aqui]().
+As Histórias foram validadas por meio da técnica de personas, na qual os responsáveis, Alex e Matheus, interpretaram algumas das personas e a partir disso foram listados os critérios de aceitação. As gravações podem ser vistas [aqui](userStoryPersonas/usPersona.md).
 
-As histórias de usuário foram divididas por Épicos, que podem ser visualizados na aba de [Backlog](backlog.md) onde são apresentados melhores descrições a seu respeito.
+As histórias de usuário foram divididas por Épicos, que podem ser visualizados na aba de [Backlog](backlog/backlog.md) onde são apresentados melhores descrições a seu respeito.
 
 Legenda:
 
