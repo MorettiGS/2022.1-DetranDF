@@ -46,14 +46,14 @@ Eu, como **usuário** gostaria de **modificar o endereço da CNH** para poder **
 ## 5. US11
 Eu, como **usuário** gostaria de **emitir CNH digital** para poder **ter acesso digitalmente a CNH**.
 
-### 2.1. Critérios de avaliação
+### 5.1. Critérios de avaliação
 * Deve haver uma seção que requisita ao sistema a emissão do documento.
 * O usuário deve ter a CNH com o status **físico** para solicitar a definitiva.
 * O usuário deve receber uma posição frente ao status da operação: concluído ou falha.
 * Deve ser possível consultar a data e a hora da solicitação.
 
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 02/08/2022 | Criação do documento | Paulo Gotinjo e Thiago Gomes | Alex Gabriel e Matheus Costa|
