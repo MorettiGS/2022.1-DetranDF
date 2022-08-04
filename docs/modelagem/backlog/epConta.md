@@ -56,4 +56,4 @@
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
-| 0.1 | 01/08/2022 | Criação do documento | Thiago Gomes e Paulo Gotinjo | Alex Gabriel e Matheus Costa |
+| 0.1 | 01/08/2022 | Criação do documento | Thiago Gomes e Paulo Gontijo | Alex Gabriel e Matheus Costa |

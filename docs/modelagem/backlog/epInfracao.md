@@ -84,4 +84,4 @@ Eu, como **usuário** gostaria de **realizar pagamento de multa** para poder **q
 ## 7. Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
-| 0.1 | 02/08/2022 | Criação do documento | Paulo Gotinjo e Thiago Gomes | Alex Gabriel e Matheus Costa |
+| 0.1 | 02/08/2022 | Criação do documento | Paulo Gontijo e Thiago Gomes | Alex Gabriel e Matheus Costa |
