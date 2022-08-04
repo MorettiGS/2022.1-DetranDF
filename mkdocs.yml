@@ -30,5 +30,5 @@ nav:
       - EP03 - Veículo: 'modelagem/backlog/epVeiculo.md'
       - EP04 - Infração: 'modelagem/backlog/epInfracao.md'
       - EP05 - Agendamentos: 'modelagem/backlog/epAgendamento.md'
-      - Histórias de Usuários: 'modelage/historia.md'
+      - Histórias de Usuários: 'modelagem/historia.md'
   - Apresentações: 'apresentacoes.md'
