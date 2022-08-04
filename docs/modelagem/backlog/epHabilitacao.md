@@ -10,7 +10,7 @@ A tabela abaixo ilustra o épico **Habilitação**:
 | US11 | RF20 | Emitir CNH digital | Ter acesso à CNH | Must |
 <h6 align = "center"> Tabela 1: Épico de Habilitação</h6> 
 
-## 1. US07
+## 1. US07 - Visualizar CNH eletrônica
 Eu, como **usuário** gostaria de **visualizar a CNH eletrônica** para poder **ter acesso aos dados da CNH**.
 
 ### 1.1. Critérios de avaliação
@@ -18,7 +18,7 @@ Eu, como **usuário** gostaria de **visualizar a CNH eletrônica** para poder **
 * O documento deve ser digitalizádo.
 * Deve ser possível fazer o download do documento em formato **PDF**.
 
-## 2. US08
+## 2. US08 - Solicitar segunda via da CNH
 Eu, como **usuário** gostaria de **solicitar segunda via da CNH** para poder **receber uma nova CNH**.
 
 ### 2.1. Critérios de avaliação
@@ -26,7 +26,7 @@ Eu, como **usuário** gostaria de **solicitar segunda via da CNH** para poder **
 * O usuário deve receber uma posição frente ao status da operação: sucesso ou falha.
 * Deve ser possível consultar a data e a hora da solicitação.
 
-## 3. US09
+## 3. US09 - Solicitar CNH definitiva
 Eu, como **usuário** gostaria de **solicitar CNH definitiva** para poder **receber a CNH definitiva**.
 
 ### 3.1. Critérios de avaliação
@@ -35,7 +35,7 @@ Eu, como **usuário** gostaria de **solicitar CNH definitiva** para poder **rece
 * O usuário deve receber uma posição frente ao status da operação: sucesso ou falha.
 * Deve ser possível consultar a data e a hora da solicitação.
 
-## 4. US09
+## 4. US09 - Modificar o endereço da CNH
 Eu, como **usuário** gostaria de **modificar o endereço da CNH** para poder **atualizar o endereço cadastrado**.
 
 ### 4.1. Critérios de avaliação
@@ -43,7 +43,7 @@ Eu, como **usuário** gostaria de **modificar o endereço da CNH** para poder **
 * O usuário deve receber uma posição frente ao status da operação: sucesso ou falha.
 * Deve ser possível consultar a data e a hora da solicitação.
 
-## 5. US11
+## 5. US11 - Emitir CNH digital
 Eu, como **usuário** gostaria de **emitir CNH digital** para poder **ter acesso digitalmente a CNH**.
 
 ### 5.1. Critérios de avaliação
