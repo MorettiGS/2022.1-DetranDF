@@ -23,7 +23,7 @@ nav:
     - Casos de Uso: 'modelagem/casos.md'
     - Especificação Suplementar: 'modelagem/especificacao.md'
     - NFR Framework: 'modelagem/nfr.md'
-    - Ágil:
+    - Backlog:
       - Backlog do produto: 'modelagem/backlog/backlog.md'
       - EP01 - Conta: 'modelagem/backlog/epConta.md'
       - EP02 - Habilitação: 'modelagem/backlog/epHabilitacao.md'
