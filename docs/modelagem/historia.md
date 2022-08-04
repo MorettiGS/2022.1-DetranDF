@@ -1,4 +1,4 @@
-***
+# Histórias de Usuário
 
 ## 1. Introdução
 
@@ -84,7 +84,7 @@ A tabela 5 abaixo apresenta as histórias relacionadas ao épico de Infrações.
 
 > User story. awari. Disponível em: <https://awari.com.br/user-story/>. Acesso em: 30/07/2022
 
-***
+
 ## Histórico de Versão
 
 |  Versão   | Data       | Descrição           | Autor  | Revisor|
