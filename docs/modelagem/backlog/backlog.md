@@ -10,7 +10,7 @@ sem quebrar o fluxo de trabalho.
 ## 2. Épicos
 Trata-se de uma modelagem que permite ao cliente definir o que é importante para o projeto, bem como o que é
 desnecessário. Uma vez definida a importância dos módulos de um projeto, é possível separar e agrupar os itens do backlog,
-facilitando a organização e a priorização. Em sua definição formal, pode-se afirma: Épicos são definidos como “iniciativas
+facilitando a organização e a priorização. Em sua definição formal, pode-se afirmar que épicos são definidos como: “iniciativas
 de desenvolvimento que tem como objetivo entregar valor à um tema de investimento” (LEFFINGWELL, 2010).
 
 ## 3. Histórias de Usuários
@@ -19,7 +19,9 @@ tem como objetivo expressar sucintamente, as dores e necessidades desse usuário
 proponha critérios mínimos para aceitação e defina a viabilidade da história. Além, de apresentar o valor de negócio
 agregado ao produto de uma forma simples e leve.
 
-### EP01: Conta
+### 3.1. EP01 - Conta
+A tabela abaixo ilustra a lógica de contrução do épico **Conta**:
+
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US01 | RF1 | Criar conta | Ter acesso ao sistema | Must |
@@ -28,8 +30,11 @@ agregado ao produto de uma forma simples e leve.
 | US04 | RF43 | Alterar senha | Utilizar uma nova senha para login | Must |
 | US05 | RF45 | Cadastrar biometria | Acessar plataforma por biometria | Must |
 | US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento pessoal | Must |
+<h6 align = "center"> Tabela 1: Épico de Contas</h6>
 
-### EP02: Habilitação
+### 3.2. EP02 - Habilitação
+A tabela abaixo ilustra a lógica de contrução do épico **Habilitação**:
+
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US07 | RF3 | Visualizar CNH eletrônica | Ter acesso aos dados da CNH | Must |
@@ -37,16 +42,22 @@ agregado ao produto de uma forma simples e leve.
 | US09 | RF28| Solicitar CNH definitiva | Receber a sua CNH definitiva | Must |
 | US10 | RF31 | Modificar endereço da CNH  | Trocar de endereço | Should |
 | US11 | RF20 | Emitir CNH | Ter acesso à CNH | Must |
+<h6 align = "center"> Tabela 2: Épico de Habilitação</h6> 
 
-### EP03: Veículos
+### 3.3. EP03 - Veículos
+A tabela abaixo ilustra a lógica de contrução do épico **Veículos**:
+
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US12 | RF11 | Consultar veículo | Ter acesso às informações do veículo | Must |
 | US13 | RF17 | Consultar histórico do veículo | Ter acesso ao histórico do veículo | Should |
 | US15 | RF29 | Solicitar estacionamento para idosos  | Ter authorização para estacionar em vagas reservadas | Must |
 | US16 | RF30 | Solicitar estacionamento para PCDs  | Ter authorização para estacionar em vagas reservadas | Must |
+<h6 align = "center"> Tabela 3: Épico de Veículos</h6> 
 
-### EP05: Infrações
+### 3.4. EP04 - Infrações
+A tabela abaixo ilustra a lógica de contrução do épico **Infrações**:
+
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
 | US17 | RF12 | Consultar infrações | Ter acesso às informações sobre infrações | Must |
@@ -55,18 +66,28 @@ agregado ao produto de uma forma simples e leve.
 | US20 | RF33 | Transferir pontos de infração | Fazer a transferência dos pontos de infração| Should |
 | US21 | RF34 | Transferir titularidade de multa | Fazer a transferência da titularidade da multa| Should |
 | US22 | RF35 | Realizar pagamento de multa | Quitar uma multa | Should |
+<h6 align = "center"> Tabela 4: Épico de Infrações</h6> 
 
-### EP05: Agendamentos
+### 3.5. EP05 - Agendamentos
+A tabela abaixo ilustra a lógica de contrução do épico **Agendamentos**:
 
+| História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
+|:-:|:-:|:-:|:-:|:-:|
+| US23 | RF6 | Agendar atendimento presencial | marcar uma data sem precisar ir pessoalmente solicitar o mesmo | Must |
+| US24 | RF21 | Agendar vistorias veiculares online | marcar uma data sem precisar ir pessoalmente solicitar o mesmo | Could |
+| US25 | RF38 | Escolher uma unidade de agendamento | escolher onde será o atendimento | Could |
+| US26 | RF39 | Escolher a hora de agendamento| ter liberdade diante minha rotina de horários | Could |
+<h6 align = "center"> Tabela 5: Épico de Agendamentos</h6> 
 
 ## 4. Referências Bibliográficas
 > LEFFINGWELL, D. Agile software requirements: lean requirements practices for teams,
 programs, and the enterprise. [S.l.]: Addison-Wesley Professional, 2010.
 
-## Histórico de Versão
+## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 01/08/2022 | Criação do documento | Paulo Gotinjo e Thiago Gomes | Arthur|
+| 0.2 | 02/08/2022 | Criação dos épicos e reformatação do texto | Thiago Gomes e Paulo Gotinjo | Arthur|
 
 
 
