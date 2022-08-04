@@ -41,7 +41,7 @@ A tabela abaixo ilustra a lógica de contrução do épico **Habilitação**:
 | US08 | RF8 | Solicitar segunda via da CNH | Receber uma nova CNH | Must |
 | US09 | RF28| Solicitar CNH definitiva | Receber a sua CNH definitiva | Must |
 | US10 | RF31 | Modificar endereço da CNH  | Trocar de endereço | Should |
-| US11 | RF20 | Emitir CNH | Ter acesso à CNH | Must |
+| US11 | RF20 | Emitir CNH digital| Ter acesso à CNH digital | Must |
 <h6 align = "center"> Tabela 2: Épico de Habilitação</h6> 
 
 ### 3.3. EP03 - Veículos
