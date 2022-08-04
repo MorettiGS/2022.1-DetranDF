@@ -1,4 +1,5 @@
-### EP01 - Conta
+# EP01 - Conta
+A tabela abaixo ilustra o épico **Conta**:
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
@@ -8,7 +9,7 @@
 | US04 | RF43 | Alterar senha | Utilizar uma nova senha para login | Must |
 | US05 | RF45 | Cadastrar biometria | Acessar plataforma por biometria | Must |
 | US06 | RF46| Cadastrar CPF/CNPJ | Usar como documento pessoal | Must |
-
+<h6 align = "center"> Tabela 1: Épico de Contas</h6>
 
 ### 1. US01 - Criar uma conta
 &emsp;&emsp;Eu, como **usuário**, gostaria de **criar conta** para poder **ter acesso ao sistema**.
