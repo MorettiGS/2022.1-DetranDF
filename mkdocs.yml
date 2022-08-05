@@ -31,4 +31,12 @@ nav:
       - EP04 - Infração: 'modelagem/backlog/epInfracao.md'
       - EP05 - Agendamentos: 'modelagem/backlog/epAgendamento.md'
       - Histórias de Usuários: 'modelagem/historia.md'
+  - Design, Avaliação e Desenvolvimento: 
+    - Nivel 1:
+      - Análise de Tarefas:
+        - Planejamento da avaliação de análise de tarefas: 'design-avaliacao-desenvolvimento\nivel1\planejamentoAvaliaçãoAnalisedeTarefas.md'
+        - Planejamento do relato dos resultados da análise de tarefas: 'design-avaliacao-desenvolvimento\nivel1\planejamentoResultadoAnalisedeTarefas.md'
+      - StoryBoard:
+        - Planejamento da avaliação - Storyboard: 'design-avaliacao-desenvolvimento\nivel1\planejamentoAvaliaçãoStoryBoard.md'
+        - Planejamento do relato dos resultados do Storyboard: 'design-avaliacao-desenvolvimento\nivel1\planejamentoResultadoStoryBoard.md'
   - Apresentações: 'apresentacoes.md'
