@@ -1,4 +1,4 @@
-# Verificação da especificação suplementar
+# Verificação dos léxicos
 
 ## **1. Contexto**
 
@@ -8,7 +8,7 @@
 
 ## **2. Checklists**
 
-A seguir é apresentado as tabelas de checklist de todos os léxicos criados pela equipe durante a etapa de modelagem. 
+A seguir é apresentado as tabelas de checklist de todos os [léxicos](../../modelagem/lexico.md) criados pela equipe durante a etapa de modelagem. 
 
 ### 2.1 - Usuário
 
@@ -17,8 +17,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 1: checklist do léxico usuário</h6>
 
 ### 2.2 - Registrar
 
@@ -27,8 +29,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 2: checklist do léxico registrar</h6>
 
 ### 2.3 - Login
 
@@ -37,8 +41,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 3: checklist do léxico login</h6>
 
 ### 2.4 - CNH
 
@@ -47,8 +53,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 4: checklist do léxico CNH</h6>
 
 ### 2.5 - Visualizar Multa
 
@@ -57,8 +65,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✖|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 5: checklist do léxico visualizar multa</h6>
 
 ### 2.6 - Consultar pontos
 
@@ -67,8 +77,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 6: checklist do léxico consultar pontos</h6>
 
 ### 2.7 - Agendamento
 
@@ -77,8 +89,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✖|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 7: checklist do léxico agendamento</h6>
 
 ### 2.8 - Contato
 
@@ -87,8 +101,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✖|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 8: checklist do léxico contato</h6>
 
 ### 2.9 - Gerar boletos
 
@@ -100,6 +116,8 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |4|Os sinônimos apresentados estão corretos?|✖|
 |5|Os léxicos possuem ligações entre si?|✔|
 
+<h6 align = "center">Tabela 9: checklist do léxico gerar boletos</h6>
+
 ### 2.10 - Consultar o veículo
 
 |Id|Questões|Resposta|
@@ -107,8 +125,10 @@ A seguir é apresentado as tabelas de checklist de todos os léxicos criados pel
 |1|A noção está correta?|✔|
 |2|A classificação está correta?|✔|
 |3|O impacto está correto?|✔|
-|4|Os sinônimos apresentados estão corretos??|✔|
+|4|Os sinônimos apresentados estão corretos?|✔|
 |5|Os léxicos possuem ligações entre si?|✔|
+
+<h6 align = "center">Tabela 10: checklist do léxico consultar veículo</h6>
 
 ## **3. Conclusão**
 
