@@ -1,14 +1,14 @@
-# Verificação da instrospecção
+# Verificação da Instrospecção
 
 ## **1. Contexto**
 
 - Técnica utilizada: Inspeção com checklist.
-- Autor do documento: Christian.
+- Autor do documento: Arthur.
 - Inspetor: Paulo.
 
 ## **2. Checklist**
 
-Abaixo segue a tabela com as informações da lista de controle de verificação da [instrospecção](../../elicitação/introspeccao.md):
+Abaixo segue a tabela com as informações da lista de controle de verificação da [questionário](../../elicitação/questionario.md):
 
 <center>
 
@@ -22,7 +22,7 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 |  6  | O cliente/usuário participou da priorização?              |    ✖     |
 
 
-<h6 align = "center">Tabela 1: checklist do documento de instrospecção</h6>
+<h6 align = "center">Tabela 1: checklist do documento de questionário</h6>
 
 </center>
 
@@ -35,4 +35,4 @@ conhecimentos técnicos, o que descaracteriza a encenação.
 
 | Versão | Data  |      Descrição       | Autor | Revisor |
 |:------:|:-----:|:--------------------:|:-----:|:-------:|
-|  0.1   | 17/08 | criação do documento | Paulo | Arthur  |
+|  0.1   | 17/08 | criação do documento | Paulo |  Alex   |
