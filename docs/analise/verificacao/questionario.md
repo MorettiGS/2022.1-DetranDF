@@ -23,7 +23,7 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 |  7  | O autor menciona o veículo de divulgação das pesquisas?                      |    ✖     |
 
 
-<h6 align = "center">Tabela 1: checklist do documento de instrospecção</h6>
+<h6 align = "center">Tabela 1: checklist do documento de questionário</h6>
 
 </center>
 

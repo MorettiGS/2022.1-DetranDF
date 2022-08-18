@@ -8,7 +8,7 @@
 
 ## **2. Checklist**
 
-Abaixo segue a tabela com as informações da lista de controle de verificação da [questionário](../../elicitação/questionario.md):
+Abaixo segue a tabela com as informações da lista de controle de verificação da [instrospecção](../../elicitação/questionario.md):
 
 <center>
 
@@ -22,7 +22,7 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 |  6  | O cliente/usuário participou da priorização?              |    ✖     |
 
 
-<h6 align = "center">Tabela 1: checklist do documento de questionário</h6>
+<h6 align = "center">Tabela 1: checklist do documento de instrospecção</h6>
 
 </center>
 
@@ -31,6 +31,7 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 De maneira geral, a técnica foi aplicada corretamente com o autor do artefato se colocando no lugar do usuário final. 
 Um ponto que chama atenção é que em alguns requisitos nota-se uma complexidade acima do esperado para uma pessoa sem 
 conhecimentos técnicos, o que descaracteriza a encenação.
+
 ## Histórico de Versão
 
 | Versão | Data  |      Descrição       | Autor | Revisor |
