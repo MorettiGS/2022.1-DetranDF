@@ -9,7 +9,7 @@
 
 ## **2. Checklist**
 
-Na Tabela 1 a seguir constam os pontos verificados deste artefato e se foram atendidos ou não.
+Na Tabela 1 a seguir constam os pontos verificados do artefato [Personas](../../elicita%C3%A7%C3%A3o/persona.md) e se foram atendidos ou não.
 
 |Id|Questões|Resposta|
 |:---:|---|:---:|
@@ -32,5 +32,5 @@ O detalhamento das personas parece estar bem completo, porém um fator important
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-| 0.1 | 17/08/2022 | Criação do documento | Matheus | Alex |
-| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Alex |
+| 0.1 | 17/08/2022 | Criação do documento | Matheus | Thiago |
+| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Thiago |
