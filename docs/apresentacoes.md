@@ -15,4 +15,8 @@
 
 ## 4ª Apresentação: Modelagem de Requisitos parte 2
 <iframe width="942" height="530" src="https://www.youtube.com/embed/AeSYDcgWkwk" title="Apresentação 4 | Modelagem de Requisitos parte 2 | Requisitos de Software UnB 2022-1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> Disponibilizado no dia 03 de Outubro de 2022
+> Disponibilizado no dia 03 de Agosto de 2022
+
+## 5° Apresentação: Verificação e Validação
+<iframe width="942" height="530" src="https://www.youtube.com/embed/UG6IyI75x3E" title="Apresentação 5 RS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Disponibilizado no dia 17 de Agosto de 2022
