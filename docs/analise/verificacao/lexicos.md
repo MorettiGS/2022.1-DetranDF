@@ -139,4 +139,4 @@ Existem alguns termos que não foram abordados pelo documento de léxicos como s
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-|0.1|17/08|criação do documento|Alex||
+|0.1|17/08|criação do documento|Alex|Arthur|

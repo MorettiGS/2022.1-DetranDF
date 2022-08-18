@@ -31,4 +31,4 @@ A maioria das categorias do modelo furps+ não são especificadas, deve-se adici
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-|0.1|17/08|criação do documento|Alex||
+|0.1|17/08|criação do documento|Alex|Paulo|

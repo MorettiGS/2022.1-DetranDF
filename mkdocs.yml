@@ -48,4 +48,5 @@ nav:
       - Backlog: analise/verificacao/backlog.md    
     - Validação:
       - Prototipação: analise/validacao/prototipacao.md
+      - Validação Informal: analise/validacao/validacao_informal.md
   - Apresentações: 'apresentacoes.md'

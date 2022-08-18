@@ -29,4 +29,4 @@ A técnica utilizada, o MoSCoW, foi aplicada de forma correta, mas falta a grava
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-|0.1|17/08|criação do documento|Alex||
+|0.1|17/08|criação do documento|Alex|Paulo|
