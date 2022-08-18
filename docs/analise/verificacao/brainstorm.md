@@ -26,5 +26,5 @@ Após a analise do documento e geração do check list é possivel identificar q
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
-| 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo   |
+| 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex   |
 

@@ -95,4 +95,4 @@ A partir dos checklists aqui realizado, especificando para cada cenário criado 
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
-| 0.1 | 17/08/2022 |Criação da página    | Arthur | Alex   |
+| 0.1 | 17/08/2022 |Criação da página    | Arthur | Paulo   |

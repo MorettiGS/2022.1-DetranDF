@@ -28,5 +28,5 @@ Através do checklist realizado é possivel concluir que todas verificações do
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
-| 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex e Matheus |
+| 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo |
 
