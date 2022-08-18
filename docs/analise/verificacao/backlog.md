@@ -9,7 +9,7 @@
 
 ## **2. Checklist**
 
-Na Tabela 1 a seguir constam os pontos verificados deste artefato e se foram atendidos ou não.
+Na Tabela 1 a seguir constam os pontos verificados do artefato [Backlog](../../modelagem/backlog/backlog.md) e se foram atendidos ou não.
 
 |Id|Questões|Resposta|
 |:---:|---|:---:|
@@ -41,5 +41,5 @@ Porém foi observado que alguns itens faltantes como divisão por tema e feature
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-| 0.1 | 17/08/2022 | Criação do documento | Matheus | Paulo |
-| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Paulo |
+| 0.1 | 17/08/2022 | Criação do documento | Matheus | Arthur |
+| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Arthur |
