@@ -1,6 +1,6 @@
 # Verificação Brainstorm
 
-## 1. Contexto
+## **1. Contexto**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Paulo
@@ -8,7 +8,7 @@
   
 O documento que estará sendo verificado pode ser acessado [aqui](../../elicitação/brainstorm.md)
 
-## 2. Checklist
+## **2. Checklist**
 
 | ID | Questões | Respostas |
 |----|----------|-----------|
@@ -20,7 +20,7 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../elicita�
 
 *Tabela 1: Checklist*
 
-## 3. Conclusão
+## **3. Conclusão**
 
 Após a analise do documento e geração do check list é possivel identificar que não tem acesso à gravação do brainstorm para possíveis consultas, tirando isso os outros checks puderam ser validados corretamente não sendo encontrados erros graves.
 
