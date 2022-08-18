@@ -18,6 +18,8 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../elicita�
 |4   |É possivel identificar quais foram os participantes?|&#10004 |
 |5   |Foram validados os requisitos gerados? |&#10004|
 
+*Tabela 1: Checklist*
+
 ## 3. Conclusão
 
 Após a analise do documento e geração do check list é possivel identificar que não tem acesso à gravação do brainstorm para possíveis consultas, tirando isso os outros checks puderam ser validados corretamente não sendo encontrados erros graves.
@@ -27,4 +29,5 @@ Após a analise do documento e geração do check list é possivel identificar q
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex   |
+| 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Alex   |
 

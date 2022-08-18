@@ -20,6 +20,8 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../prerastr
 |6   |Aborda todos os aspectos do aplicativo? |&#10004|
 |7   |Os simbolos estão claros? |&#10004|
 
+*Tabela 1: Checklist*
+
 
 ## 3. Conclusão
 Através do checklist realizado é possivel concluir que todas verificações do rich picture puderam ser validadas devidamente e não apresentará instabilidades numa possivel utilização não necessitando de correções drasticas ou até ser refeito.
@@ -29,4 +31,5 @@ Através do checklist realizado é possivel concluir que todas verificações do
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo |
+| 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
 
