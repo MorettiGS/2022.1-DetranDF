@@ -27,7 +27,7 @@ Para realizar essa tarefa, o grupo designou um integrante (Thiago), que criou um
 </center>
  
 ## 4. Referências Bibliográficas
-> DEPARTAMENTO DE TRÂNSITO. Detran-DF amplia canais de agendamento de serviços. Disponível em: http://www.detran.df.gov.br/detran-df-disponibiliza-agendamento-de-servicos-de-veiculos-e-habilitacao-pelo-site/#:~:text=Central%20de%20Atendimento%20ao%20Cidad%C3%A3o%3A%20telefone%20154%20(para%20quem%20est%C3%A1,quem%20est%C3%A1%20fora%20do%20DF).&text=site%2C%20portal%20ou%20154.&text=exclusivamente%20pelo%20site.,-Inspe%C3%A7%C3%A3o%20veicular%20(para&text=por%20e%2Dmail%3A%20nuinsp%40,%2D5958%20e%203905%2D5951.<br>Acesso em: 17/08/2022
+> DEPARTAMENTO DE TRÂNSITO. Detran-DF amplia canais de agendamento de serviços. Disponível em: http://www.detran.df.gov.br/detran-df-disponibiliza-agendamento-de-servicos-de-veiculos-e-habilitacao-pelo-site.<br>Acesso em: 17/08/2022
 
 
 ## 5. Histórico de Versão
