@@ -87,6 +87,27 @@ Abaixo seguem tabelas de atividades de acordo com suas reespectivas sprints:
 |Gravar apresentação 4 |Todos|Todos|02/08 |
 <h6 align = "center">Tabela 5: Sprint 4</h6>
 
+### Sprint 5
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+|Planejamento de verificação |[Alex Gabriel](https://github.com/Gabriel-Axl)|[ Arthur Henrique ](https://github.com/black258br)|15/08 |
+|Verificação Rich Picture |[ Arthur Henrique ](https://github.com/black258br)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
+|Verificação Brainstorm |[ Arthur Henrique ](https://github.com/black258br)|[Alex Gabriel](https://github.com/Gabriel-Axl)|15/08 |
+|Verificação Introspecção |[Paulo Henrique](https://github.com/paulohgontijoo)|[Alex Gabriel](https://github.com/Gabriel-Axl)|15/08 |
+|Verificação Questionário |[Paulo Henrique](https://github.com/paulohgontijoo)|[Alex Gabriel](https://github.com/Gabriel-Axl)|15/08 |
+|Verificação Personas |[Matheus Costa](https://github.com/mc-gomes)|[Thiago Siqueira](https://github.com/thgomes)|15/08 |
+|Verificação Priorização |[Alex Gabriel](https://github.com/Gabriel-Axl)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
+|Verificação Léxicos  |[Alex Gabriel](https://github.com/Gabriel-Axl)|[ Arthur Henrique ](https://github.com/black258br)|15/08 |
+|Verificação Cenários |[ Arthur Henrique ](https://github.com/black258br)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
+|Verificação Casos de Uso |[Paulo Henrique](https://github.com/paulohgontijoo)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
+|Verificação Especificação Suplementar |[Alex Gabriel](https://github.com/Gabriel-Axl)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
+|Verificação NFR Framework |[Matheus Costa](https://github.com/mc-gomes)|[Thiago Siqueira](https://github.com/thgomes)|15/08 |
+|Verificação backlog |[Matheus Costa](https://github.com/mc-gomes)|[Christian Fleury](https://github.com/chfleury)|15/08 |
+|Validação  |[Christian Fleury](https://github.com/chfleury) e |[Matheus Costa](https://github.com/mc-gomes)|15/08 |
+|Gravação da apresentação 5 |Todos|Todos|16/08 |
+<h6 align = "center">Tabela 6: Sprint 5</h6>
+
 ## 5. Horários disponíveis dos integrantes
 Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
 
@@ -128,3 +149,4 @@ Abaixo segue a tabela com a relação das ferramentas utilizadas, pelo nossa equ
 | <center>0.5 | 12/07/2022 | Ajustes legendas tabelas e layout | Paulo     | Todos   |
 | <center>0.6 | 02/08/2022 | adição da sprint 3 | Alex     | Todos   |
 | <center>0.7 | 03/08/2022 | adição da sprint 4 | Alex     | Todos   |
+| <center>0.8 | 17/08/2022 | adição da sprint 5 | Alex     | Todos   |
