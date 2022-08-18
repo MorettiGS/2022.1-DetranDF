@@ -3,7 +3,7 @@
 ## **1. Contexto**
 
 - Técnica utilizada: Inspeção com checklist.
-- Autor do documento: Arthur.
+- Autor do documento: Christian.
 - Inspetor: Paulo.
 
 ## **2. Checklist**
@@ -37,3 +37,4 @@ conhecimentos técnicos, o que descaracteriza a encenação.
 | Versão | Data  |      Descrição       | Autor | Revisor |
 |:------:|:-----:|:--------------------:|:-----:|:-------:|
 |  0.1   | 17/08 | criação do documento | Paulo |  Alex   |
+|  0.2   | 17/08 |Alteração de autor no contexto|Alex|Paulo|

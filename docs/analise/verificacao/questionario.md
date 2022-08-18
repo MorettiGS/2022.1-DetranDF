@@ -3,7 +3,7 @@
 ## **1. Contexto**
 
 - Técnica utilizada: Inspeção com checklist.
-- Autor do documento: Christian.
+- Autor do documento: Arthur.
 - Inspetor: Paulo.
 
 ## **2. Checklist**
@@ -37,4 +37,5 @@ referentes ao questionário.
 
 | Versão | Data  |      Descrição       | Autor | Revisor |
 |:------:|:-----:|:--------------------:|:-----:|:-------:|
-|  0.1   | 17/08 | criação do documento | Paulo | Arthur  |
+|  0.1   | 17/08 | criação do documento | Paulo | Alex  |
+|0.2|17/08|Alteração de autor no contexto|Alex|Paulo|
