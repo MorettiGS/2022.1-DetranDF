@@ -104,7 +104,7 @@ Abaixo seguem tabelas de atividades de acordo com suas reespectivas sprints:
 |Verificação Especificação Suplementar |[Alex Gabriel](https://github.com/Gabriel-Axl)|[Paulo Henrique](https://github.com/paulohgontijoo)|15/08 |
 |Verificação NFR Framework |[Matheus Costa](https://github.com/mc-gomes)|[Thiago Siqueira](https://github.com/thgomes)|15/08 |
 |Verificação backlog |[Matheus Costa](https://github.com/mc-gomes)|[Christian Fleury](https://github.com/chfleury)|15/08 |
-|Validação  |[Christian Fleury](https://github.com/chfleury) e |[Matheus Costa](https://github.com/mc-gomes)|15/08 |
+|Validação  |[Christian Fleury](https://github.com/chfleury) e [Thiago Siqueira](https://github.com/thgomes)|[Matheus Costa](https://github.com/mc-gomes)|15/08 |
 |Gravação da apresentação 5 |Todos|Todos|16/08 |
 <h6 align = "center">Tabela 6: Sprint 5</h6>
 
