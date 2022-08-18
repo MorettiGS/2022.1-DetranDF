@@ -9,7 +9,7 @@
 
 ## **2. Checklist**
 
-Na Tabela 1 a seguir constam os pontos verificados deste artefato e se foram atendidos ou não.
+Na Tabela 1 a seguir constam os pontos verificados do artefato [NFR Framework](../../modelagem/nfr.md) e se foram atendidos ou não.
 
 |Id|Questões|Resposta|
 |:---:|---|:---:|
@@ -37,5 +37,5 @@ Foi observado também que só foram captadas 2 categorias do modelo FURPS+, o qu
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
-| 0.1 | 17/08/2022 | Criação do documento | Matheus | Thiago |
-| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Thiago |
+| 0.1 | 17/08/2022 | Criação do documento | Matheus | Alex |
+| 0.2 | 17/08/2022 | Adição do conteúdo do documento | Matheus | Alex |
