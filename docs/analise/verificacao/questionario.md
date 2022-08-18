@@ -8,7 +8,7 @@
 
 ## **2. Checklist**
 
-Abaixo segue a tabela com as informações da lista de controle de verificação da [questionário](../../elicitação/introspeccao.md):
+Abaixo segue a tabela com as informações da lista de controle de verificação da [questionário](../../elicitação/questionario.md):
 
 <center>
 
