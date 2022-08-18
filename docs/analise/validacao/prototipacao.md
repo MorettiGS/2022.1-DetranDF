@@ -35,3 +35,5 @@ Para realizar essa tarefa, o grupo designou um integrante (Thiago), que criou um
 |Versão|    Data    |    Descrição         | Autor        | Revisor |
 |:----:|:----------:|:---------         --:|:------------:|:-------:|
 | 0.1  | 17/08/2022 |Criação da página    |  Thiago Gomes    |     Christian Fleury    |
+| 0.2  | 17/08/2022 |Adição de resultados do protótipo    |  Thiago Gomes    |     Christian Fleury    |
+
