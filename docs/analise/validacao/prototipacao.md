@@ -11,3 +11,18 @@ Para realizar essa tarefa, o grupo designou um integrante (Thiago), que criou um
 | RF35 |Deve ser possível realizar pagamento de multa |
 | RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran |
 
+## 3. Resultados
+ Segue abaixo da prototipação realizado pela equipe. [Clicando aqui](https://www.figma.com/file/UwjXsp15GZa9lRzebWIFRP/DetranDF?node-id=0%3A1) você pode visualizar o protótipo realizado.
+
+<center>
+<img src="../../../images/validacao/multa_prototipo.png">
+
+*Figura 1: Protótipo pagamento de multa*
+</center>
+
+<center>
+<img src="../../../images/validacao/contato_infos_prototipo.png">
+
+*Figura 2: Protótipo informações para contato*
+</center>
+ 
