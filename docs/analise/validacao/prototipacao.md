@@ -8,6 +8,7 @@ Para realizar essa tarefa, o grupo designou um integrante (Thiago), que criou um
  
 ### 2.1 Requisitos Prototipadas
 | Número | Requisito |
+| :-: | :-: |
 | RF35 |Deve ser possível realizar pagamento de multa |
 | RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran |
 
