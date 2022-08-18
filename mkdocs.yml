@@ -26,4 +26,22 @@ nav:
     - Backlog:
       - Backlog do produto: 'modelagem/backlog/backlog.md'
       - Histórias de Usuários: 'modelagem/historia.md'
+  - Análise:
+    - Verificação:
+      - Planejamento: analise/verificacao/planejamento.md
+      - Rich Picture: analise/verificacao/rich_picture.md
+      - Brainstorm: analise/verificacao/brainstorm.md
+      - Introspecção: analise/verificacao/introspeccao.md
+      - Questionário: analise/verificacao/questionario.md
+      - Personas: analise/verificacao/persona.md
+      - Priorização: analise/verificacao/moscow.md
+      - Léxicos: analise/verificacao/lexicos.md
+      - Cenários: analise/verificacao/cenarios.md
+      - Casos de Uso: analise/verificacao/casos_de_uso.md
+      - Especificação Suplementar: analise/verificacao/esp_suplementar.md
+      - NFR Framework: analise/verificacao/nfr_framework.md
+      - Backlog: analise/verificacao/backlog.md    
+    - Validação:
+      - Prototipação: analise/validacao/prototipacao.md
+      - Validação Informal: analise/validacao/validacao_informal.md
   - Apresentações: 'apresentacoes.md'
