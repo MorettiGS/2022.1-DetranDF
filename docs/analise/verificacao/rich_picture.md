@@ -1,6 +1,6 @@
 # Verificação Rich Picture
 
-## 1. Contexto
+## **1. Contexto**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex Gabriel e Matheus Costa
@@ -8,7 +8,7 @@
   
 O documento que estará sendo verificado pode ser acessado [aqui](../../prerastreabilidade/richPicture/richpicture.md)
 
-## 2. Checklist
+## **2. Checklist**
 
 | ID | Questões | Respostas |
 |----|----------|-----------|
@@ -23,10 +23,10 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../prerastr
 *Tabela 1: Checklist*
 
 
-## 3. Conclusão
+## **3. Conclusão**
 Através do checklist realizado é possivel concluir que todas verificações do rich picture puderam ser validadas devidamente e não apresentará instabilidades numa possivel utilização não necessitando de correções drasticas ou até ser refeito.
 
-## 4. Histórico de versão
+## Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|

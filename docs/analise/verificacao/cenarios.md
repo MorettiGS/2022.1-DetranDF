@@ -1,6 +1,6 @@
 # Verificação Cenários
 
-## 1. Contexto
+## **1. Contexto**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex
@@ -8,7 +8,7 @@
   
 O documento que estará sendo verificado pode ser acessado [aqui](../../modelagem/cenarios.md)
 
-## 2. Checklist
+## **2. Checklist**
 
 ### 2.1 C01
 | ID | Questões | Respostas |
@@ -101,11 +101,11 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 
 <center>*Tabela 7: Checklist Cenário 7*</center>
 
-## 3. Conclusão
+## **3. Conclusão**
 
 A partir dos checklists aqui realizado, especificando para cada cenário criado durante o processo, é possível confirmar que todas as verificações puderam ser validadas corretamente e não foram encontrados erros graves ou que pudessem afetar a utilização dos mesmos.
 
-## 4. Histórico de versão
+## Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
