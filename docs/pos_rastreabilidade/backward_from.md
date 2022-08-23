@@ -1,6 +1,7 @@
 ## 1. introdução
 
 ## 2. Metodologia
+Os requisitos funcionais e não funcionais elicitados anteriormente são organizados na tabela a seguir e seus rastreamentos, tambem serão verificados os seus respectivos elos relacionados a cada artefato.
 
 ## 3. Rastreabilidade requisitos funcionais
 
@@ -22,22 +23,22 @@
 | RF14 |Deve ser possível consultar informações sobre multas                               |Brainstorm|[**EF14**](#ef14)|
 | RF15 |Deve ser possível consultar informações sobre documentos                           |Brainstorm|[**EF15**](#ef15)|
 | RF16 |Deve ser possível realizar transferências de veículos de forma eletrônica          |Brainstorm|[**EF16**](#ef16)|
-| RF17 |Deve ser possível consultar informações históricas sobre o veículo                 |Brainstorm||
-| RF18 |Deve ser possível emitir eletrônicamente o CRLV                                    |Brainstorm||
-| RF19 |Deve ser possível alterar o endereço do proprietário do veículo                    |Brainstorm||
-| RF20 |Deve ser possível emitir o ATPV                                                    |Brainstorm||
-| RF21 |Deve ser possível agendar vistorias veiculares                                     |Brainstorm||
-| RF22 |Deve ser possível emitir CNH eletrônica                                            |Brainstorm||
-| RF23 |Deve ser possível consultar informações sobre bloqueios                            |Brainstorm||
-| RF24 |Deve ser possível consultar informações sobre ocorrências                          |Brainstorm||
-| RF25 |Deve ser possível emitir documento de nada consta                                  |Brainstorm||
-| RF26 |Deve ser possível consultar informações sobre processo de obtenção da habilitação  |Brainstorm||
-| RF27 |Deve ser possível solicitar CNH definitiva                                         |Brainstorm||
-| RF28 |Deve ser possível solicitar 2ª via de CNH                                          |Brainstorm||
-| RF29 |Deve ser possível solicitar autorização de estacionamento para idosos              |Brainstorm||
-| RF30 |Deve ser possível solicitar autorização de estacionamento para PCDs                |Brainstorm||
-| RF31 |Deve ser possível modificar endereço do proprietário da CNH                        |Brainstorm||
-| RF32 |Deve ser possível consultar infrações                                              |Brainstorm||
+| RF17 |Deve ser possível consultar informações históricas sobre o veículo                 |Brainstorm|[**EF17**](#ef17)|
+| RF18 |Deve ser possível emitir eletrônicamente o CRLV                                    |Brainstorm|[**EF18**](#ef18)|
+| RF19 |Deve ser possível alterar o endereço do proprietário do veículo                    |Brainstorm|[**EF19**](#ef19)|
+| RF20 |Deve ser possível emitir o ATPV                                                    |Brainstorm|[**EF20**](#ef20)|
+| RF21 |Deve ser possível agendar vistorias veiculares                                     |Brainstorm|[**EF21**](#ef21)|
+| RF22 |Deve ser possível emitir CNH eletrônica                                            |Brainstorm|[**EF22**](#ef22)|
+| RF23 |Deve ser possível consultar informações sobre bloqueios                            |Brainstorm|[**EF23**](#ef23)|
+| RF24 |Deve ser possível consultar informações sobre ocorrências                          |Brainstorm|[**EF24**](#ef24)|
+| RF25 |Deve ser possível emitir documento de nada consta                                  |Brainstorm|[**EF25**](#ef25)|
+| RF26 |Deve ser possível consultar informações sobre processo de obtenção da habilitação  |Brainstorm|[**EF26**](#ef26)|
+| RF27 |Deve ser possível solicitar CNH definitiva                                         |Brainstorm|[**EF27**](#ef27)|
+| RF28 |Deve ser possível solicitar 2ª via de CNH                                          |Brainstorm|[**EF28**](#ef28)|
+| RF29 |Deve ser possível solicitar autorização de estacionamento para idosos              |Brainstorm|[**EF29**](#ef29)|
+| RF30 |Deve ser possível solicitar autorização de estacionamento para PCDs                |Brainstorm|[**EF30**](#ef30)|
+| RF31 |Deve ser possível modificar endereço do proprietário da CNH                        |Brainstorm|[**EF31**](#ef31)|
+| RF32 |Deve ser possível consultar infrações                                              |Brainstorm|[**EF32**](#ef32)|
 | RF33 |Deve ser possível transferir pontos de infrações                                   |Brainstorm||
 | RF34 |Deve ser possível transferir titularidade de multa                                 |Brainstorm||
 | RF35 |Deve ser possível realizar pagamento de multa                                      |Brainstorm||
@@ -63,7 +64,7 @@
 | Número     | Requisito   | Origem    |Elos|
 |:------------:|-----------------|------------|-----|
 |RNF1|O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS|Introspecção|[**ENF01**](#enf01)|
-|RNF2|O aplicativo deve ter uma latência máxima de 1000ms por requisição             |Introspecção||
+|RNF2|O aplicativo deve ter uma latência máxima de 1000ms por requisição             |Introspecção|[**ENF02**](#enf02)|
 |RNF3|O aplicativo deve estar disponível 24h                                         |Introspecção, Questionário||
 
 <h6 align = "center">Tabela 2: Rastreabilidade de requisitos não funcionais</h6>
@@ -193,6 +194,118 @@ Agregação: [BT01](../elicita%C3%A7%C3%A3o/brainstorm.md) agrega [INT04](../eli
 **Elos:** <br>
 Representação: [C04](../modelagem/cenarios.md) representa [Caso 4](../modelagem/casos.md)
 
+### EF17
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Léxico: Consultar o Veículo](../modelagem/lexico.md) representa RF17<br>
+Agregação: [C04](../modelagem/cenarios.md) agrega [Léxico: Consultar o Veículo](../modelagem/lexico.md)<br>
+Agregação: [Caso 4](../modelagem/casos.md) agrega RF17
+
+### EF18
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Agregação: [C04](../modelagem/cenarios.md) agrega RF18<br>
+
+### EF19
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 4](../modelagem/casos.md) agrega RF19
+
+### EF20
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 4](../modelagem/casos.md) agrega RF20
+
+### EF21
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Léxico: Agendamento](../modelagem/lexico.md) representa RF21<br>
+Agregação: [C04](../modelagem/cenarios.md) agrega [Léxico: Agendamento](../modelagem/lexico.md)
+Representação: [Caso 4](../modelagem/casos.md) representa [C04](../modelagem/cenarios.md)
+
+### EF22
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C05](../modelagem/cenarios.md) representa [Léxico: CNH](../modelagem/lexico.md)
+Representação: [Caso 3](../modelagem/casos.md) representa [C05](../modelagem/cenarios.md)
+
+### EF23
+
+**Categoria:** --
+
+**Elos:** --
+
+### EF24
+
+**Categoria:** --
+
+**Elos:** --
+
+### EF25
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 3](../modelagem/casos.md) representa RF25
+
+### EF26
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C05](../modelagem/cenarios.md) representa [Léxico: CNH](../modelagem/lexico.md)
+Representação: [Caso 3](../modelagem/casos.md) representa [C05](../modelagem/cenarios.md)
+
+### EF27
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 3](../modelagem/casos.md) representa RF27
+
+### EF28
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C05](../modelagem/cenarios.md) representa RF28<br>
+Representação: [Caso 3](../modelagem/casos.md) representa [C05](../modelagem/cenarios.md)
+
+### EF29
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C05](../modelagem/cenarios.md) representa RF29<br>]
+Representação: [Caso 3](../modelagem/casos.md) representa [C05](../modelagem/cenarios.md)
+
+### EF30
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 3](../modelagem/casos.md) representa RF30
+
+### EF31
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [Caso 3](../modelagem/casos.md) representa RF31
+
+### EF32
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C06](../modelagem/cenarios.md) representa [Léxico: Visualizar Multa](../modelagem/lexico.md)
+Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
+
 ## **6. Elos não funcionais**
 
 ### ENF01
@@ -201,6 +314,15 @@ Representação: [C04](../modelagem/cenarios.md) representa [Caso 4](../modelage
 
 **Elos:** <br>
 Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../modelagem/nfr.md)
+
+### ENF02
+
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../modelagem/nfr.md)
+
+
 
 ## Referências
 > Slides da aula 26 de requisitos de software UnB-FGA, Milene Serrano e Maurício Serrano
