@@ -38,11 +38,11 @@ Diante do exposto anteriormente, a categorização dos requisitos não-funcionai
 
 <center>
 
-| Requisitos | Categoria  |
-|:------: | :------: | 
-| RNF1 | Suportabilidade |
-| RNF2 | Performance |
-| RNF3 | Performance |
+| ID Requisito | Descrição | Categoria  |
+|:------: |:-----: | :------: | 
+| RNF1 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS | Suportabilidade |
+| RNF2 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | Performance |
+| RNF3 | O aplicativo deve estar disponível 24h | Performance |
 
 <figcaption>Tabela 1: categorização dos requisitos não funcionais</figcaption>
 

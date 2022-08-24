@@ -1,4 +1,7 @@
-## 1. introdução
+***
+
+## 1. Introdução
+Este documento visa registrar a rastreabilidade dos requisitos elicitados pelo grupo, com o foco de indicar de onde eles vieram e referenciar esta origem.
 
 ## 2. Metodologia
 Os requisitos funcionais e não funcionais elicitados anteriormente são organizados na tabela a seguir e seus rastreamentos, tambem serão verificados os seus respectivos elos relacionados a cada artefato.
@@ -39,22 +42,22 @@ Os requisitos funcionais e não funcionais elicitados anteriormente são organiz
 | RF30 |Deve ser possível solicitar autorização de estacionamento para PCDs                |Brainstorm|[**EF30**](#ef30)|
 | RF31 |Deve ser possível modificar endereço do proprietário da CNH                        |Brainstorm|[**EF31**](#ef31)|
 | RF32 |Deve ser possível consultar infrações                                              |Brainstorm|[**EF32**](#ef32)|
-| RF33 |Deve ser possível transferir pontos de infrações                                   |Brainstorm||
-| RF34 |Deve ser possível transferir titularidade de multa                                 |Brainstorm||
-| RF35 |Deve ser possível realizar pagamento de multa                                      |Brainstorm||
-| RF36 |Deve ser possível agendar serviços                                                 |Brainstorm||
-| RF37 |Deve ser possível escolher data de agendamento                                     |Brainstorm||
-| RF38 |Deve ser possível escolher unidade de agendamento                                  |Brainstorm||
-| RF39 |Deve ser possível escolher hora de agendamento                                     |Brainstorm||
-| RF40 |Deve ser possível consulta endereço de unidades                                    |Brainstorm||
-| RF41 |Deve ser possível realizar contato com ouvidoria                                   |Brainstorm||
-| RF42 |Deve ser possível alterar email                                                    |Brainstorm||
-| RF43 |Deve ser possível alterar senha                                                    |Brainstorm||
-| RF44 |Deve ser possível reenviar e-mail de validação                                     |Brainstorm||
-| RF45 |Deve ser possível cadastrar biometria                                              |Brainstorm||
-| RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               |Brainstorm||
-| RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          |Brainstorm||
-| RF48 |Deve ser possível cadastrar uma senha                                              |Brainstorm||
+| RF33 |Deve ser possível transferir pontos de infrações                                   |Brainstorm| [EF33](#ef33) |
+| RF34 |Deve ser possível transferir titularidade de multa                                 |Brainstorm| [EF34](#ef34) |
+| RF35 |Deve ser possível realizar pagamento de multa                                      |Brainstorm| [EF35](#ef35) |
+| RF36 |Deve ser possível agendar serviços                                                 |Brainstorm| [EF36](#ef36) |
+| RF37 |Deve ser possível escolher data de agendamento                                     |Brainstorm| [EF37](#ef37) |
+| RF38 |Deve ser possível escolher unidade de agendamento                                  |Brainstorm| [EF38](#ef38) |
+| RF39 |Deve ser possível escolher hora de agendamento                                     |Brainstorm| [EF39](#ef39) |
+| RF40 |Deve ser possível consulta endereço de unidades                                    |Brainstorm| [EF40](#ef40) |
+| RF41 |Deve ser possível realizar contato com ouvidoria                                   |Brainstorm| [EF41](#ef41) |
+| RF42 |Deve ser possível alterar email                                                    |Brainstorm| [EF42](#ef42) |
+| RF43 |Deve ser possível alterar senha                                                    |Brainstorm| [EF43](#ef43) |
+| RF44 |Deve ser possível reenviar e-mail de validação                                     |Brainstorm| [EF44](#ef44) |
+| RF45 |Deve ser possível cadastrar biometria                                              |Brainstorm| [EF45](#ef45) |
+| RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               |Brainstorm| [EF46](#ef46) |
+| RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          |Brainstorm| [EF47](#ef47) |
+| RF48 |Deve ser possível cadastrar uma senha                                              |Brainstorm| [EF48](#ef48) |
 
 
 <h6 align = "center">Tabela 1: Rastreabilidade de requisitos funcionais</h6>
@@ -65,7 +68,7 @@ Os requisitos funcionais e não funcionais elicitados anteriormente são organiz
 |:------------:|-----------------|------------|-----|
 |RNF1|O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS|Introspecção|[**ENF01**](#enf01)|
 |RNF2|O aplicativo deve ter uma latência máxima de 1000ms por requisição             |Introspecção|[**ENF02**](#enf02)|
-|RNF3|O aplicativo deve estar disponível 24h                                         |Introspecção, Questionário||
+|RNF3|O aplicativo deve estar disponível 24h                                         |Introspecção, Questionário| [ENF03](#enf03) |
 
 <h6 align = "center">Tabela 2: Rastreabilidade de requisitos não funcionais</h6>
 
@@ -306,6 +309,142 @@ Representação: [Caso 3](../modelagem/casos.md) representa RF31
 Representação: [C06](../modelagem/cenarios.md) representa [Léxico: Visualizar Multa](../modelagem/lexico.md)
 Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
 
+
+
+
+
+
+
+
+### EF33
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C06](../modelagem/cenarios.md) representa [Léxico: Consultar Pontos](../modelagem/lexico.md)
+
+Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
+
+### EF34
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C06](../modelagem/cenarios.md) representa RF34
+
+Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
+
+### EF35
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C06](../modelagem/cenarios.md) representa [Léxico: Visualizar Multa](../modelagem/lexico.md)
+
+Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
+
+### EF36
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF37
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF38
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF39
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF40
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF41
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C07](../modelagem/cenarios.md) representa [Léxico: Agendamento](../modelagem/lexico.md)
+
+Representação: [Caso 6](../modelagem/casos.md) representa [C07](../modelagem/cenarios.md)
+
+### EF42
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [US03](../modelagem/backlog/epConta.md#3-us03---alterar-email) representa RF42
+
+
+### EF43
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [US04](../modelagem/backlog/epConta.md) representa RF42
+
+### EF44
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C01](../modelagem/cenarios.md) representa [Léxico: Login](../modelagem/lexico.md)
+
+Representação: [Caso 2](../modelagem/casos.md) representa [C01](../modelagem/cenarios.md)
+
+### EF45
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C01](../modelagem/cenarios.md) representa [Léxico: Login](../modelagem/lexico.md)
+
+Representação: [Caso 1](../modelagem/casos.md) representa [C01](../modelagem/cenarios.md)
+
+Representação: [US05](../modelagem/backlog/epConta.md) representa RF45
+
+### EF46
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C01](../modelagem/cenarios.md) representa [Léxico: Registrar](../modelagem/lexico.md)
+
+Representação: [US06](../modelagem/backlog/epConta.md) representa RF46
+
+### EF47
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C06](../modelagem/cenarios.md) representa [Léxico: Consultar Pontos](../modelagem/lexico.md)
+
+Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/cenarios.md)
+
+### EF48
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Representação: [C02](../modelagem/cenarios.md) representa [Léxico: Registrar](../modelagem/lexico.md)
+
+Representação: [Caso 1](../modelagem/casos.md) representa [C01](../modelagem/cenarios.md)
+
+Representação: [US01](../modelagem/backlog/epConta.md) representa RF48
+
 ## **6. Elos não funcionais**
 
 ### ENF01
@@ -313,15 +452,19 @@ Representação: [Caso 5](../modelagem/casos.md) representa [C06](../modelagem/c
 **Categoria:** Desenvolvimento
 
 **Elos:** <br>
-Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../modelagem/nfr.md)
+Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../modelagem/especificacao.md#41-sobre-o-furps)
 
 ### ENF02
-
 **Categoria:** Desenvolvimento
 
 **Elos:** <br>
-Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../modelagem/nfr.md)
+Agregação: [RNF2](../modelagem/especificacao.md) agrega [Performance](../modelagem/especificacao.md#41-sobre-o-furps)
 
+### ENF03
+**Categoria:** Desenvolvimento
+
+**Elos:** <br>
+Agregação: [RNF3](../modelagem/especificacao.md) agrega [Performance](../modelagem/especificacao.md#41-sobre-o-furps)
 
 
 ## Referências
@@ -329,4 +472,6 @@ Agregação: [RNF1](../modelagem/especificacao.md) agrega [Suportabilidade](../m
 ## Histórico de Versão
 | Versão |     Data     |              Descrição               |      Autor      | Revisor |
 |:------:|:------------:|:------------------------------------:|:---------------:|:------:|
-|  0.1   |  19/07/2022  |         Criação do documento         |  | |
+|  0.1   |  24/08/2022  |         Criação do documento e adição das rastreabilidades funcionais 1 ao 16 e não funcional 1       | Alex | Arthur |
+|  0.2   |  24/08/2022  |        Adição das rastreabilidades funcionais 16 ao 32 e não funcional 2       | Arthur | Matheus |
+|  0.3   |  24/08/2022  |        Adição das rastreabilidades funcionais 32 ao 48 e não funcional 3       | Matheus | Alex |
