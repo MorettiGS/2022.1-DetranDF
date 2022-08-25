@@ -45,13 +45,13 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 | RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | Visualizar Multa | C06  |
 | RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | Consultar Pontos | -  |
 | RF6 |O usuário deve ser capaz de fazer um agendamento de atendimento presencial          | US17 | Agendamento | -  |
-| RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran               | - | - | Contato  |
+| RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran               | - | Contato | -  |
 | RF8 |O usuário deve ser capaz de solicitar 2ª via da CNH                                 | US06 | - | C05  |
 | RF9 |O usuário deve ser capaz de gerar boletos para pagar suas multas                    | US10 | Gerar Boleto | C06  |
 | RF10 |Deverá ser possível acessar a habilitação	                                       | US05 | - | C05  |
 | RF11 |Deverá ser possível consultar o veículo                                            | US11 | Consultar Veículo | -  |
 | RF12 |Deverá ser possível consultar infrações                                            | US18 | - | -  |
-| RF13 |Deverá ser possível agendar atendimentos                                           | US17 | - | -  |
+| RF13 |Deverá ser possível agendar atendimentos                                           | US17 | Agendamento | -  |
 | RF14 |Deve ser possível consultar informações sobre multas                               | US18 | - | C06  |
 | RF15 |Deve ser possível consultar informações sobre documentos                           | - | - | -  |
 | RF16 |Deve ser possível realizar transferências de veículos de forma eletrônica          | US12 | - | -  |
@@ -75,9 +75,9 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 | RF34 |Deve ser possível transferir titularidade de multa                                 | - | - | C06  |
 | RF35 |Deve ser possível realizar pagamento de multa                                      | US19 | - | C06  |
 | RF36 |Deve ser possível agendar serviços                                                 | US17 | - | C07  |
-| RF37 |Deve ser possível escolher data de agendamento                                     | US17 | - | C07  |
-| RF38 |Deve ser possível escolher unidade de agendamento                                  | US17 | - | C07  |
-| RF39 |Deve ser possível escolher hora de agendamento                                     | US17 | - | C07  |
+| RF37 |Deve ser possível escolher data de agendamento                                     | US17 | Agendamento | C07  |
+| RF38 |Deve ser possível escolher unidade de agendamento                                  | US17 | Agendamento | C07  |
+| RF39 |Deve ser possível escolher hora de agendamento                                     | US17 | Agendamento | C07  |
 | RF40 |Deve ser possível consulta endereço de unidades                                    | US17 | - | -  |
 | RF41 |Deve ser possível realizar contato com ouvidoria                                   | - | Contato | -  |
 | RF42 |Deve ser possível alterar email                                                    | US04 | - | -  |
