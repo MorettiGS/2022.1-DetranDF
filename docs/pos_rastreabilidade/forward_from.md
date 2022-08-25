@@ -92,9 +92,11 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 
 
 ## 4. Referência Bibliográficas
-> Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. Disponível em: https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf. Acesso em: 23 agosto 2022.
+> Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. 
+> Disponível em: https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf. Acesso em: 23 agosto 2022.
 
-> [1]Silva, Paulo Robson. Modelo de Rastreabilidade de Requisitos Aplicada à Gestão de Projetos em Métodos Ágeis. Disponível em: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjh3v692-D5AhXBD7kGHS4iCqEQFnoECC0QAQ&url=https%3A%2F%2Frepositorio.ufrn.br%2Fbitstream%2F123456789%2F22079%2F1%2FRobsonPauloDaSilva_DISSERT.pdf&usg=AOvVaw3kVtfOHf2xdQus2T78Y7r7&cshid=1661386665225071.
+> [1]Silva, Robson Paulo da. Modelo de rastreabilidade de requisitos aplicada a gestão de projetos em métodos ágeis. 
+> Disponível em: https://repositorio.ufrn.br/handle/123456789/22079.
 > Acessado em: 23/08/2022
 
 > Cleland-Huang, Jane, Orlena Gotel, and Andrea Zisman. Software and systems traceability. Vol. 2. No. 3. London: Springer, 2012.
