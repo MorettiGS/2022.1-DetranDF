@@ -11,8 +11,8 @@
 | RF1 |O usuário deve ser capaz de se registrar no aplicativo                              | US01 | Registrar | C01  |
 | RF2 |O usuário deve ser capaz de fazer o login na sua conta                              | US02 | Login | C02  |
 | RF3 |O usuário deve ser capaz de visualizar sua CNH eletrônica                           | US05 | - | C05  |
-| RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | - | C06  |
-| RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | - | -  |
+| RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | Visualizar Multa | C06  |
+| RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | Consultar Pontos | -  |
 | RF6 |O usuário deve ser capaz de fazer um agendamento de atendimento presencial          | US17 | - | -  |
 | RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran               | - | - | -  |
 | RF8 |O usuário deve ser capaz de solicitar 2ª via da CNH                                 | US06 | - | C05  |
