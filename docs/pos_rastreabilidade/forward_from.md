@@ -39,11 +39,11 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 
 | Número | Requisito | História de Usuário | Léxico | Cenário
 |:-:|:-:|:-:|:-:|:-:|
-| RF1 |O usuário deve ser capaz de se registrar no aplicativo                              | US01 | - | C01  |
-| RF2 |O usuário deve ser capaz de fazer o login na sua conta                              | US02 | - | C02  |
+| RF1 |O usuário deve ser capaz de se registrar no aplicativo                              | US01 | Registrar | C01  |
+| RF2 |O usuário deve ser capaz de fazer o login na sua conta                              | US02 | Login | C02  |
 | RF3 |O usuário deve ser capaz de visualizar sua CNH eletrônica                           | US05 | - | C05  |
-| RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | - | C06  |
-| RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | - | -  |
+| RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | Visualizar Multa | C06  |
+| RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | Consultar Pontos | -  |
 | RF6 |O usuário deve ser capaz de fazer um agendamento de atendimento presencial          | US17 | - | -  |
 | RF7 |O usuário deve ser capaz de encontrar os números de contato do Detran               | - | - | -  |
 | RF8 |O usuário deve ser capaz de solicitar 2ª via da CNH                                 | US06 | - | C05  |
@@ -86,7 +86,7 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 | RF45 |Deve ser possível cadastrar biometria                                              | - | - | -  |
 | RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               | US01 | - | -  |
 | RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          | US18 | - | C06  |
-| RF48 |Deve ser possível cadastrar uma senha                                              | US04 | - | C01  |
+| RF48 |Deve ser possível cadastrar uma senha                                              | US04 | Registrar | C01  |
 
 <h6 align = "center">Tabela 1: Foward From</h6>
 
