@@ -8,8 +8,8 @@
 
 | Número | Requisito | História de Usuário | Léxico | Cenário
 |:-:|:-:|:-:|:-:|:-:|
-| RF1 |O usuário deve ser capaz de se registrar no aplicativo                              | US01 | - | C01  |
-| RF2 |O usuário deve ser capaz de fazer o login na sua conta                              | US02 | - | C02  |
+| RF1 |O usuário deve ser capaz de se registrar no aplicativo                              | US01 | Registrar | C01  |
+| RF2 |O usuário deve ser capaz de fazer o login na sua conta                              | US02 | Login | C02  |
 | RF3 |O usuário deve ser capaz de visualizar sua CNH eletrônica                           | US05 | - | C05  |
 | RF4 |O usuário deve ser capaz de visualizar suas multas                                  | US10 | - | C06  |
 | RF5 |O usuário deve ser capaz de consultar os pontos da carteira                         | US18 | - | -  |
