@@ -7,9 +7,9 @@ a origem, motivo e relações com artefatos que determinado requisito possui. Pa
 podem auxiliar no desenvolvimento deste processo.
 
 ## 2. Metodologia
-Cleland-Huang cita em uma de suas obras que rastreabilidade que, em seu fundamento, se refere ao potencial para relacionar dados
+Cleland-Huang cita em uma de suas obras que rastreabilidade, em seu fundamento, se refere ao potencial para relacionar dados
 já existentes em algum artefato somado à habilidade de examinar estas relações. Isso induz em uma dependência 
-em criar ligações navegáveis entre o conteúdo presente nos artefatos, que por ora poderiam estar desconectados.
+de criar ligações navegáveis entre o conteúdo presente nos artefatos que, por ora, poderiam estar desconectados.
 
 Os principais conceitos relacionados a rastreabilidade são:
 
@@ -35,6 +35,7 @@ tabela que registra os artefatos, suas fontes e destino. A estratégia adotada p
 eficiente e de fácil interpretação.
 
 ## 3. Requisitos
+Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da metodologia apresentada: 
 
 | Número | Requisito | História de Usuário | Léxico | Cenário
 |:-:|:-:|:-:|:-:|:-:|
