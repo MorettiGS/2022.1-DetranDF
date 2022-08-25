@@ -26,7 +26,7 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../prerastr
 ## **3. Conclusão**
 Através do checklist realizado é possivel concluir que todas verificações do rich picture puderam ser validadas devidamente e não apresentará instabilidades numa possivel utilização não necessitando de correções drasticas ou até ser refeito.
 
-## Histórico de versão
+## 4. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|

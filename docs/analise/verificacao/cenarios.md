@@ -105,7 +105,7 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 
 A partir dos checklists aqui realizado, especificando para cada cenário criado durante o processo, é possível confirmar que todas as verificações puderam ser validadas corretamente e não foram encontrados erros graves ou que pudessem afetar a utilização dos mesmos.
 
-## Histórico de versão
+## 4. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|

@@ -24,7 +24,7 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../elicita�
 
 Após a analise do documento e geração do check list é possivel identificar que não tem acesso à gravação do brainstorm para possíveis consultas, tirando isso os outros checks puderam ser validados corretamente não sendo encontrados erros graves.
 
-## Histórico de versão
+## 4. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
