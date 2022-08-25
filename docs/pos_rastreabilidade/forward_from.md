@@ -83,9 +83,9 @@ Abaixo segue a tabela de matriz de rastreabilidade, resultante da aplicação da
 | RF42 |Deve ser possível alterar email                                                    | US04 | - | -  |
 | RF43 |Deve ser possível alterar senha                                                    | US04 | - | -  |
 | RF44 |Deve ser possível reenviar e-mail de validação                                     | - | - | -  |
-| RF45 |Deve ser possível cadastrar biometria                                              | - | - | -  |
-| RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               | US01 | - | -  |
-| RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          | US18 | - | C06  |
+| RF45 |Deve ser possível cadastrar biometria                                              | - | Registrar | -  |
+| RF46 |Deve ser possível cadastrar Cpf/Cnpj                                               | US01 | Registrar | -  |
+| RF47 |Deve ser possível consultar pontuação de infrações associadas ao condutor          | US18 | Registrar | C06  |
 | RF48 |Deve ser possível cadastrar uma senha                                              | US04 | Registrar | C01  |
 
 <h6 align = "center">Tabela 1: Foward From</h6>
