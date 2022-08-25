@@ -35,7 +35,7 @@
 | RF25 |Deve ser possível emitir documento de nada consta                                  | US09 | - | -  |
 | RF26 |Deve ser possível consultar informações sobre processo de obtenção da habilitação  | - | - | C05  |
 | RF27 |Deve ser possível solicitar CNH definitiva                                         | historia | lexico | C05  |
-| RF28 |Deve ser possível solicitar 2ª via de CNH                                          | US06  | lexico | ceC05nario  |
+| RF28 |Deve ser possível solicitar 2ª via de CNH                                          | US06  | lexico | C05  |
 | RF29 |Deve ser possível solicitar autorização de estacionamento para idosos              | historia | lexico | cenario  |
 | RF30 |Deve ser possível solicitar autorização de estacionamento para PCDs                | historia | lexico | cenario  |
 | RF31 |Deve ser possível modificar endereço do proprietário da CNH                        | US03 | lexico | C05  |
