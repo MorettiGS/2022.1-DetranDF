@@ -5,7 +5,7 @@ A tabela abaixo ilustra o épico **Habilitação**:
 |:-:|:-:|:-:|:-:|:-:|
 | US07 | RF3 | Visualizar CNH eletrônica | Ter acesso aos dados da CNH | Must |
 | US08 | RF8 | Solicitar segunda via da CNH | Receber uma nova CNH | Must |
-| US09 | RF28| Solicitar CNH definitiva | Receber a sua CNH definitiva | Must |
+| US06 | RF28| Solicitar CNH definitiva | Receber a sua CNH definitiva | Must |
 | US10 | RF31 | Modificar endereço da CNH  | Trocar de endereço | Should |
 | US11 | RF20 | Emitir CNH digital | Ter acesso à CNH | Must |
 <h6 align = "center"> Tabela 1: Épico de Habilitação</h6> 
@@ -57,3 +57,4 @@ Eu, como **usuário** gostaria de **emitir CNH digital** para poder **ter acesso
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 02/08/2022 | Criação do documento | Paulo Gontijo e Thiago Gomes | Alex Gabriel e Matheus Costa|
+| 0.2 | 24/08/2022 | Corrigido erro de digitacao | Christian | Thiago |
