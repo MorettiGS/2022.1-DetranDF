@@ -29,5 +29,5 @@ Até o momento, não obtemos resposta da equipe de desenvolvimento. Se recebermo
 |Versão|    Data    |    Descrição         | Autor        | Revisor |
 |:----:|:----------:|:---------         --:|:------------:|:-------:|
 | 0.1  | 17/08/2022 |Criação da página    |  Christian    |     Thiago    |
- | 0.1  | 17/08/2022 |Adição do revisor    |  Christian    |     Thiago    |
+ | 0.2  | 17/08/2022 |Adição do revisor    |  Christian    |     Thiago    |
 

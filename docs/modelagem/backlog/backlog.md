@@ -20,7 +20,7 @@ proponha critérios mínimos para aceitação e defina a viabilidade da históri
 agregado ao produto de uma forma simples e leve.
 
 ### 3.1. EP01 - Conta
-A tabela abaixo ilustra a lógica de contrução do épico **Conta**:
+A tabela abaixo ilustra a lógica de contrução do épico **Conta** (mais detalhes [aqui](epConta.md)):
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
@@ -33,7 +33,7 @@ A tabela abaixo ilustra a lógica de contrução do épico **Conta**:
 <h6 align = "center"> Tabela 1: Épico de Contas</h6>
 
 ### 3.2. EP02 - Habilitação
-A tabela abaixo ilustra a lógica de contrução do épico **Habilitação**:
+A tabela abaixo ilustra a lógica de contrução do épico **Habilitação** (mais detalhes [aqui](epHabilitacao.md)):
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
@@ -45,7 +45,7 @@ A tabela abaixo ilustra a lógica de contrução do épico **Habilitação**:
 <h6 align = "center"> Tabela 2: Épico de Habilitação</h6> 
 
 ### 3.3. EP03 - Veículos
-A tabela abaixo ilustra a lógica de contrução do épico **Veículos**:
+A tabela abaixo ilustra a lógica de contrução do épico **Veículos** (mais detalhes [aqui](epVeiculo.md)):
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
@@ -56,7 +56,7 @@ A tabela abaixo ilustra a lógica de contrução do épico **Veículos**:
 <h6 align = "center"> Tabela 3: Épico de Veículos</h6> 
 
 ### 3.4. EP04 - Infrações
-A tabela abaixo ilustra a lógica de contrução do épico **Infrações**:
+A tabela abaixo ilustra a lógica de contrução do épico **Infrações** (mais detalhes [aqui](epInfracao.md)):
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
@@ -69,7 +69,7 @@ A tabela abaixo ilustra a lógica de contrução do épico **Infrações**:
 <h6 align = "center"> Tabela 4: Épico de Infrações</h6> 
 
 ### 3.5. EP05 - Agendamentos
-A tabela abaixo ilustra a lógica de contrução do épico **Agendamentos**:
+A tabela abaixo ilustra a lógica de contrução do épico **Agendamentos** (mais detalhes [aqui](epAgendamento.md)):
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... | Para poder... | Prioridade |
 |:-:|:-:|:-:|:-:|:-:|
