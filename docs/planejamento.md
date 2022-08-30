@@ -1,3 +1,5 @@
+***
+
 ## 1. Aplicativos Analisados
 Arthur Henrique - <b>Carteira Digital</b><br>
 Alex Gabriel - <b>Agendamentos</b><br>
@@ -5,6 +7,16 @@ Christian Fleury - <b>MEI</b><br>
 Matheus Costa - <b>Detran-DF</b><br>
 Paulo Henrique - <b>ConecteSuS</b><br>
 Thiago Gomes - <b>Carteira Digital</b><br>
+
+### 1.1. Motivação da escolha do aplicativo
+
+No início da disciplina, foi proposto aos alunos a escolha de um _app_ que seria objeto de estudo de cada grupo, a ser decidido entre os integrantes.
+
+Com isso, ao chegar o momento de decidir entre os _apps_ escolhidos individualmente, foi observado que dois integrantes haviam feito uma mesma escolha (Thiago e Arthur), mas além dessa coincidência, o grupo notou que o aplicativo da Carteira Digital já havia sido utilizado em trabalhos de semestres passados, dessa forma, isso inviabilizaria a realização da disciplina.
+
+Da mesma forma, o aplicativo ConecteSuS, escolhido pelo integrante Paulo, também já havia sido estudado em um semestre anterior.
+
+Sendo assim, dentre os aplicativos restantes, o grupo decicidiu em conjunto optar pelo estudo do aplicativo do Detran-DF, por entender que poderia ser um aplicativo que trouxesse mais características a serem exploradas, diante do que seria proposto pela disciplina.
 
 ## 2. Metodologia
 
