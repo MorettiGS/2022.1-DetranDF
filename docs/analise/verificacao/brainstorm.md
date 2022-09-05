@@ -6,9 +6,9 @@
 - Autores do documento: Paulo
 - Inspetor: Arthur Henrique
   
-O documento que estará sendo verificado pode ser acessado [aqui](../../elicitação/brainstorm.md)
-
 ## **2. Checklist**
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do  documento que estará sendo verificado. O documento pode ser acessado [aqui](../../elicitação/brainstorm.md)
 
 | ID | Questões | Respostas |
 |----|----------|-----------|
@@ -30,4 +30,4 @@ Após a analise do documento e geração do check list é possivel identificar q
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex   |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Alex   |
-
+|0.3|05/09/2022|Adição de chamada das tabelas|Alex|Thiago|

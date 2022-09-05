@@ -11,12 +11,14 @@ A equipe fez uma análise do funcionamento do aplicativo do Detran-DF e, após a
 Para visualizar as outras versões feitas pela equipe, [clique aqui](versoesRichPicture/outrasVersoes.md).
 
 ![](../../images/richpictures/richpicturev1.png)
-<h6 align = "center">Imagem 1: Rich picture</h6>
+<h6 align = "center">Figura 1: Rich picture</h6>
 
 ### 2.1. Legenda Rich Picture
 
+Abaixo a figura com os simbolos e suas respectivas descrições, esses simbolos foram utilizados na criação do Rich Picture.
+
 ![](../../images/richpictures/leg_richpic.png)
-<h6 align = "center">Imagem 2: legenda do rich picture</h6>
+<h6 align = "center">Figura 2: legenda do rich picture</h6>
 
 ## Referências
 > MULTI-STAKEHOLDER PARTNERSHIPS. **Rich Picture**. Disponível em: <a href="https://mspguide.org/2022/03/18/rich-picture/." target="__blank">https://mspguide.org/2022/03/18/rich-picture/.</a> ** Acesso em:** 28 jun. 2022.
@@ -30,3 +32,4 @@ Para visualizar as outras versões feitas pela equipe, [clique aqui](versoesRich
 | 09/07/2022 | 0.2.1 | Matheus Costa | Correções no texto de _Introdução_ | Alex Gabriel |
 | 10/07/2022 | 0.3 | Matheus Costa | Adição da legenda do Rich Picture | Alex Gabriel |
 | 10/07/2022 | 0.4 | Alex Gabriel | Adição da legenda das imagens |  Matheus Costa  |
+|05/09/2022 |0.5|Correção das legendas das figuras   | Alex | Thiago   |

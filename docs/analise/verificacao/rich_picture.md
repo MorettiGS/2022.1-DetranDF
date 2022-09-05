@@ -5,10 +5,10 @@
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex Gabriel e Matheus Costa
 - Inspetor: Arthur Henrique
-  
-O documento que estará sendo verificado pode ser acessado [aqui](../../prerastreabilidade/richPicture/richpicture.md)
 
 ## **2. Checklist**
+  
+Abaixo segue a tabela com as informações da lista de controle de verificação do  documento que estará sendo verificado. O documento pode ser acessado [aqui](../../prerastreabilidade/richPicture/richpicture.md)
 
 | ID | Questões | Respostas |
 |----|----------|-----------|
@@ -32,4 +32,4 @@ Através do checklist realizado é possivel concluir que todas verificações do
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
-
+|0.3|05/09/2022|Adição de chamada das tabelas|Alex|Thiago|
