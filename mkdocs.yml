@@ -45,7 +45,9 @@ nav:
       - Casos de Uso: analise/verificacao/casos_de_uso.md
       - Especificação Suplementar: analise/verificacao/esp_suplementar.md
       - NFR Framework: analise/verificacao/nfr_framework.md
-      - Backlog: analise/verificacao/backlog.md    
+      - Backlog: analise/verificacao/backlog.md 
+      - Backward-From: analise/verificacao/backward-from.md   
+      - Forward-From: analise/verificacao/forward-from.md  
     - Validação:
       - Prototipação: analise/validacao/prototipacao.md
       - Validação Informal: analise/validacao/validacao_informal.md
