@@ -43,3 +43,4 @@ Eu, como **usuário** gostaria de **solicitar estacionamento para PCDs** para po
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 01/08/2022 | Criação do documento | Thiago Gomes e Paulo Gontijo | Alex Gabriel e Matheus Costa |
+|0.2|07/09/2022|Unificação dos documentos de histórias de usuário|Alex|Matheus|

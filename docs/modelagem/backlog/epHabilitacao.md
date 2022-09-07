@@ -58,3 +58,4 @@ Eu, como **usuário** gostaria de **emitir CNH digital** para poder **ter acesso
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 02/08/2022 | Criação do documento | Paulo Gontijo e Thiago Gomes | Alex Gabriel e Matheus Costa|
 | 0.2 | 24/08/2022 | Corrigido erro de digitacao | Christian | Thiago |
+|0.3|07/09/2022|Unificação dos documentos de histórias de usuário|Alex|Matheus|
