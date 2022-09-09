@@ -17,6 +17,8 @@ Foram criados X artefatos
 | Rich Picture | Representa o rich picture geral do projeto | 28/06 | Alex | Matheus |
 | Apresentações | Armazena todos os videos das apresentações realizadas | 28/06 | Arthur | Todos |
 
+<h6 align = "center">Tabela 01: Etapa de planejamento</h6>
+
 ### 2.2 2° Etapa: Elicitação de Requisitos
 
 | Nome do artefato | Descrição | Data da criação | Criador | Revisor |
@@ -28,6 +30,8 @@ Foram criados X artefatos
 | Resultado | Apresenta os requisitos levantados através das técnicas anteriores | 12/07 | Arthur e Thiago | Alex |
 | Prorização | Representa as técnicas de priorização utilizadas | 11/07 | Thiago e Matheus | Matheus |
 
+<h6 align = "center">Tabela 02: Etapa de elicitação de requisitos</h6>
+
 ### 2.3 3° Etapa: Modelagem de requisitos Parte 1
 
 | Nome do artefato | Descrição | Data da criação | Criador | Revisor |
@@ -36,6 +40,8 @@ Foram criados X artefatos
 | Cenários | Utilização da técnica de cenários | 19/07 | Alex | Arthur |
 | Casos de Uso | Utilização da técnica de casos de uso | 19/07 | Arthur e Thiago | Alex |
 | Especificação suplementar | Utilização da técnica de especificação suplementar | 19/07 | Alex e Matheus | Thiago |
+
+<h6 align = "center">Tabela 03: Etapa de modelagem 1</h6>
 
 ### 2.3 4° Etapa: Modelagem de requisitos Parte 2
 
@@ -49,6 +55,8 @@ Foram criados X artefatos
 | EP04 - Infração | Quarto épico | 02/08 | Thiago e Paulo | Alex e Matheus |
 | EP05 - Agendamentos | Quinto épico | 01/08 | Thiago e Paulo | Arthur |
 | Histórias de usuário | Contem as histórias de usuário de cada épico | 30/07 | Alex e Matheus | Alex e Matheus |
+
+<h6 align = "center">Tabela 04: Etapa de modelagem 2</h6>
 
 ### 2.4 5° Etapa: Verificação e Validação
 
@@ -70,6 +78,8 @@ Foram criados X artefatos
 | Prototipação | Faz a validação através do prototipo | 17/08 | Thiago | Christian |
 | Validação Informal | Busca validar o projeto através do contato com a equipe de desenvolvimento | 17/08 | Christian | Thiago |
 
+<h6 align = "center">Tabela 05: Etapa de verificação e validação</h6>
+
 ### 2.5 6° Etapa: Pós-Rastreabilidade
 
 | Nome do artefato | Descrição | Data da criação | Criador | Revisor |
@@ -77,6 +87,8 @@ Foram criados X artefatos
 | Backward-From | Realiza a técnica de backward-from para rastreabilidade | 24/08 | Arthur, Alex e Matheus | Arthur, Alex e Matheus |
 | Forward-From | Realiza a técnica de forward-from para rastreabilidade | 23/08 | Paulo, Christian e Thiago | Alex, Arthur e Matheus |
 | Matriz Geral | Junta as duas listas de requisitos obtidas | 09/09 | Arthur | Alex |
+
+<h6 align = "center">Tabela 06: Etapa de pós-rastreabilidade</h6>
 
 ## 3. Histórico de Versão
 
