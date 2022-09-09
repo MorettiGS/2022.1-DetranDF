@@ -26,3 +26,7 @@ Na tabela abaixo estão listados os artefatos que foram verificados e seus respe
 </center>
 
 <h6 align = "center">Tabela 1: Artefatos verificados e seus respectivos inspetores</h6>
+
+|Versão|Data|Descrição|Autor|Revisor|
+|:-:|:-:|:-:|:-:|:-:|
+|0.1|08/09|criação do documento|Thiago|Christian|
