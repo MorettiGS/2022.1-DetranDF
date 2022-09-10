@@ -85,4 +85,4 @@ mais abrangente. </p>
 |:------:|:------------:|:------------------------------------:|:---------------:|:------:|
 |  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   | Paulo Gontijo|
 |  0.2   |  11/07/2022  |  Adição de persona 3 e anti-persona  |  Paulo Gontijo  | Matheus Costa|
-|  0.3   |  10/09/2022  |  Adição de perfil do usuário  |  Christian Fleury  | Matheus Costa|
+|  0.3   |  10/09/2022  |  Adição de perfil do usuário  |  Christian Fleury  | Arthur |
