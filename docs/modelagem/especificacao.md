@@ -33,7 +33,18 @@ Seu acrônimo representa categorias que podem ser usadas na definição de requi
     - Requisitos de interface: especifica ou restringe as funcionalidades inerentes a interface do sistema com usuário.
     - Requisitos físicos: especifica uma limitação física pelo hardware utilizado, por exemplo: material, forma, tamanho ou peso.
 
-## 5. Categorização
+## 5. Requisitos não funcionais
+Uma breve explicação do requisitos funcionais que serão abordados
+### 5.1 RNF1
+O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS.
+Significa que o aplicativo deve ser compatível com qualquer versão do sistema operacional Android e iOS que tenha menos de 5 anos de idade.
+### 5.2 RNF2
+O aplicativo deve ter uma latência máxima de 1000ms por requisição.
+Significa que a cada ação no aplicativo que faça uma requisição http, o tempo máximo de resposta deve ser 1000ms, ou 1s. 
+### 5.3 RNF3
+O aplicativo deve estar disponível 24h.
+Significa que o aplicativo deve estar funcional 24h por dia.
+## 6. Categorização
 Diante do exposto anteriormente, a categorização dos requisitos não-funcionais foi implementada e pode ser visualizada na tabela a seguir.
 
 <center>
@@ -62,4 +73,4 @@ Diante do exposto anteriormente, a categorização dos requisitos não-funcionai
 |:-------:|------------|---------------------|--------|--------|
 | 0.1 | 19/07/2022 |Criação do Documento | Alex | Matheus   |
 | 0.2 | 20/07/2022 |Adição do corpo do texto - tópicos de 1 a 5 | Matheus   | Alex
-
+| 0.3 | 10/09/2022 |Explicação sobre os RNF | Christian | Alex   |

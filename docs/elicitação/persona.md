@@ -1,3 +1,6 @@
+## Perfil do Usuário
+Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021). Através de uma introspecção, conseguimos definir um perfil do usuário. Esse perfil é de pessoas acima de 18 anos que possuem carteira de motorista emitida no Distrito Federal e que buscam um aplicativo para gerenciar sua CNH e afims.
+
 ## 1. Introdução
 <p>Personas são arquétipos, personagens ficcionais, concebidos a partir
 da síntese de comportamentos observados entre consumidores com
@@ -74,9 +77,12 @@ mais abrangente. </p>
 ><p style="text-align: justify">As fotos das personas foram retiradas do site <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. <b>Acesso em:</b> 07 de julho de 2022.</p>
 >VIANNA, Maurício. et al. <b>DESING THINKING inovações em negócios.</b> Rio de janeiro. <b>MJV Press.</b> Abril 2012. página 80.
 
+><p style="text-align: justify">Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. </b>
+
 ***
 ## Histórico de Versão
 | Versão |     Data     |              Descrição               |      Autor      | Revisor |
 |:------:|:------------:|:------------------------------------:|:---------------:|:------:|
 |  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   | Paulo Gontijo|
 |  0.2   |  11/07/2022  |  Adição de persona 3 e anti-persona  |  Paulo Gontijo  | Matheus Costa|
+|  0.3   |  10/09/2022  |  Adição de perfil do usuário  |  Christian Fleury  | Arthur |

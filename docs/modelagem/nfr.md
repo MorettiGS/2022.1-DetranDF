@@ -57,6 +57,7 @@ como os softgoals são priorizados, refinados e os componentes são selecionados
 A legenda presente na Figura 1 abaixo servirá de apoio para a compreensão dos diagramas no tópico de [Resultados](#5-resultados).
 
 <center>
+
 <img src="..\..\images\nfr\nfr.jpeg">
 
 </center>
@@ -74,6 +75,7 @@ Os subtópicos estão separados de acordo com as classificações que os requisi
 #### 5.1.1. Sem propagação
 
 <center>
+
 <img src="..\..\images\nfr\suportabilidade_sem.png">
 
 </center>
@@ -84,6 +86,7 @@ Os subtópicos estão separados de acordo com as classificações que os requisi
 #### 5.1.2. Com propagação
 
 <center>
+
 <img src="..\..\images\nfr\suportabilidade_com.png">
 
 </center>
@@ -94,6 +97,7 @@ Os subtópicos estão separados de acordo com as classificações que os requisi
 #### 5.2.1. Sem propagação
 
 <center>
+
 <img src="..\..\images\nfr\performance_sem.png">
 
 </center>
@@ -103,6 +107,7 @@ Os subtópicos estão separados de acordo com as classificações que os requisi
 #### 5.2.2. Com propagação
 
 <center>
+
 <img src="..\..\images\nfr\performance_com.png">
 
 </center>
@@ -126,3 +131,4 @@ Os subtópicos estão separados de acordo com as classificações que os requisi
 | 0.3  | 03/08/2022 |Adição da metodologia | Arthur | Alex e Matheus      |
 | 0.4  | 03/08/2022 |Adição das figuras 2-5    | Christian       | Alex e Matheus        |
 | 0.5  | 30/08/2022 | Adição das Definições e correções no texto  | Matheus | Arthur        |
+| 0.6  | 05/09/2022 |Correção das legendas das figuras   | Alex | Thiago   |

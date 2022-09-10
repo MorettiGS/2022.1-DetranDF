@@ -9,6 +9,9 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 ## 2. Cenários
 
 ### 2.1 C01
+
+Abaixo segue a tabela referente ao cenário C01:
+
 |<h3>**Realizar cadastro**</h3>||
 |--- |--- |
 |**Objetivo:**|Criar conta de usuário|
@@ -18,8 +21,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário seleciona opção meu cadastro<br>- Usuário seleciona primeiro acesso<br>- Usuário insere CPF/CNPJ<br>- Usuário aceita termo de uso e politica de privacidade<br>- Usuário tira foto de documento oficial com foto<br>- Usuário insere numero da CNH<br>- Usuário insere data de nascimento e nome do pai<br>- Usuário insere nome completo, telefone e E-mail|
 |**Restrição:**| - Usuário deve possuir documentação válida |
 |**Exceção:**|- CPF/CNPJ não encontrado<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar<br>- Dados incorretos|
+<h6 align = "center">tabela 1: Cenário sobre realizar cadastro</h6>
 
 ### 2.2 C02
+
+Abaixo segue a tabela referente ao cenário C02:
+
 |<h3>**Realizar login**</h3>||
 |--- |--- |
 |**Objetivo:**|Fazer login no aplicativo|
@@ -29,8 +36,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**| - Usuário seleciona opção login<br>-  Usuário insere CPF/CNPJ e senha|
 |**Restrição:**| - Usuário deve possuir cadastro|
 |**Exceção:**|- CPF/CNPJ ou senha inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
+<h6 align = "center">tabela 2: Cenário sobre realizar login</h6>
 
 ### 2.3 C03
+
+Abaixo segue a tabela referente ao cenário C03:
+
 |<h3>**Pesquisar serviços**</h3>||
 |--- |--- |
 |**Objetivo:**|Encontrar serviço desejado|
@@ -40,8 +51,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário seleciona caixa de pesquisa<br>-  Usuário escreve o nome do serviço a ser encontrado<br>- Usuário seleciona o serviço |
 |**Restrição:**|- Usuário deve estar logado no aplicativo<br>|
 |**Exceção:**|- Serviço não encontrado<br>- Serviço não pertence ao aplicativo<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar  |
+<h6 align = "center">tabela 3: Cenário sobre pesquisar serviços</h6>
 
 ### 2.4 C04
+
+Abaixo segue a tabela referente ao cenário C04:
+
 |<h3>**Acessar seção de veículos**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados com um ou mais veículos|
@@ -51,8 +66,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**| - Usuário clica no botão veículos na tela inicial<br>- Usuário seleciona consultar veículo<br>- Usuário seleciona emitir CRLV-e<br>- Usuário seleciona Alterar endereço do veículo<br>- Usuário seleciona Consultar placa de identificação do veículo<br>- Usuário seleciona tranferência eletronica inteligente<br>- Usuário seleciona pre transferência entre agências<br>- Usuário seleciona vistoria|
 |**Restrição:**|- Usuário não ter dados válidos do veículo|
 |**Exceção:**|- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar  |
+<h6 align = "center">tabela 4: Cenário sobre seção de veículos</h6>
 
 ### 2.5 C05
+
+Abaixo segue a tabela referente ao cenário C05:
+
 |<h3>**Acessar seção de habilitação**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados a habilitação|
@@ -62,8 +81,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário clica no botão de habilitação na tela inicial <br>- Usuário seleciona emitir CNH-e<br>- Usuário seleciona consultar CNH<br>- Usuário seleciona consultar processo de habilitação <br>- Usuário seleciona alterar endereço de CNH<br>- Usuário seleciona autorização de estacionamento para idoso<br>- Usuário seleciona 2° via de CNH|
 |**Restrição:**|- Usuário não ter habilitação<br>- Usuário não ter feito login|
 |**Exceção:** |- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
+<h6 align = "center">tabela 5: Cenário sobre seção de habilitação</h6>
 
 ### 2.6 C06
+
+Abaixo segue a tabela referente ao cenário C06:
+
 |<h3>**Acessar seção de infrações**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados as infrações do usuário|
@@ -73,8 +96,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário clina no botão de infrações<br>- Usuário seleciona transferir pontuação<br>- Usuário seleciona converter autuação em penalidade|
 |**Restrição:**|- Usuário não ter feito login<br>|
 |**Exceção:**|- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar|
+<h6 align = "center">tabela 6: Cenário sobre seção de infrações</h6>
 
 ### 2.7 C07
+
+Abaixo segue a tabela referente ao cenário C07:
+
 |<h3>**Agendar atendimento presencial**</h3>||
 |--- |--- |
 |**Objetivo:**|Agendar data para realizar atendimento precencial|
@@ -84,8 +111,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário clica no botão de agendamento<br>- Usuário seleciona insere dados pessoais<br>- Usuário seleciona serviço<br>- Usuario seleciona unidade<br>- Usuário seleciona data de atendimento<br>- Usuário seleciona hora do atendimento<br>- Usuário cadastra novo agendamento<br>- Usuário consulta seus agendamentos necessarios|
 |**Restrição:**|- Dados inválidos<br>|
 |**Exceção:**|- Serviços ou datas indisponíveis<br>- Não ter unidades perto do usuário<br>  |
+<h6 align = "center">tabela 7: Cenário sobre agentar atendimento presencial</h6>
 
 ### 2.8 C08
+
+Abaixo segue a tabela referente ao cenário C08:
+
 |<h3>**Favoritar serviço**</h3>||
 |--- |--- |
 |**Objetivo:**|Favoritar serviços para fácil acesso|
@@ -95,8 +126,12 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário clica no botão de favoritos<br>- Usuário seleciona serviço na lista de favoritos<br>- Usuário clica na estrela na lateral do serviço a favoritar|
 |**Restrição:**|- Estar logado no aplicativo|
 |**Exceção:**|- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
+<h6 align = "center">tabela 8: Cenário sobre favoritar serviço</h6>
 
 ### 2.9 C09
+
+Abaixo segue a tabela referente ao cenário C09:
+
 |<h3>**Deslogar do aplicativo**</h3>||
 |--- |--- |
 |**Objetivo:**|Desconectar conta do aplicativo|
@@ -106,6 +141,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Episódios:**|- Usuário clica no botão de menu lateral<br>- Usuário seleciona sair|
 |**Restrição:**|- Estar logado no aplicativo|
 |**Exceção:**|- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
+<h6 align = "center">tabela 9: Cenário sobre deslogar do aplicativo</h6>
 
 ## 3. Referências
 
@@ -116,4 +152,4 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 | Versão |     Data     |              Descrição               |      Autor      | Revisor |
 |:------:|:------------:|:------------------------------------:|:---------------:|:------:|
 |  0.1   |  19/07/2022  |         Criação do documento         |  Alex   | Arthur|
-
+|0.2| 05/09/2022 |Adição de chamadas e legenda das tabelas    | Alex | Thiago   |

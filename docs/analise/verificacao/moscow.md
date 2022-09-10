@@ -45,6 +45,7 @@ Diante disso, em meio a essas discussões, o integrante Christian havia se compr
 Com isso, na data referenciada, o autor da verificação (Alex), um dos autores do artefato (Matheus) e o integrante Christian, que havia se comprometido a realizar as correções, se reuniram para analisar como estava o andamento dessas correções, e o retorno foi de que havia sido implementada a nova técnica mencionada, com a presença de um usuário do aplicativo e que essa elicitação havia sido gravada, atendendo os itens faltantes do checklist.
 
 ***
+
 ## Histórico de Versão
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
