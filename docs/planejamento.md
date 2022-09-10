@@ -1,12 +1,12 @@
 ***
 
 ## 1. Aplicativos Analisados
-Arthur Henrique - <b>Carteira Digital</b><br>
-Alex Gabriel - <b>Agendamentos</b><br>
-Christian Fleury - <b>MEI</b><br>
-Matheus Costa - <b>Detran-DF</b><br>
-Paulo Henrique - <b>ConecteSuS</b><br>
-Thiago Gomes - <b>Carteira Digital</b><br>
+- Arthur Henrique - **Carteira Digital**
+- Alex Gabriel - **Agendamentos**
+- Christian Fleury - **MEI**
+- Matheus Costa - **Detran-DF**
+- Paulo Henrique - **ConecteSuS**
+- Thiago Gomes - **Carteira Digital**
 
 ### 1.1. Motivação da escolha do aplicativo
 
