@@ -52,4 +52,13 @@ nav:
   - Pós-Rastreabilidade:
     - Backward-From: pos_rastreabilidade/backward_from.md
     - Forward-From: pos_rastreabilidade/forward_from.md
+  - Conclusão:
+    - Aplicativo Selecionado: conclusao/aplicativo.md
+    - Cronograma planejado e executado: conclusao/cronograma.md
+    - Ferramentas utilizadas: conclusao/tabelaFerramentas.md
+    - Execução do projeto: conclusao/execucao.md
+    - Resultados alcançados: conclusao/resultadosEsperados.md
+    - Técnicas Utilizadas: conclusao/tabelaTecnicas.md
+    - Artefatos Criados: conclusao/tabelaArtefatos.md
+    - Metodos de Validação/Verificação: conclusao/tabelaMetododeVerificacao.md    
   - Apresentações: 'apresentacoes.md'
