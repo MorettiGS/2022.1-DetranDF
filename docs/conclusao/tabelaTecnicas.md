@@ -4,8 +4,6 @@ Ao longo do semestre utilizamos diferentes técnicas para executar o projeto. Fo
 ## 2. Tabela
 Abaixo segue a tabela de técnicas utilizadas:
 
-### 2.1 
-
 |_|Técnicas utilizadas
 |:-:|:-:
 |Pré-rastreabilidade|Rich Picture|
