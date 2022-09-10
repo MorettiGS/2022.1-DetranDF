@@ -55,7 +55,7 @@ Diante do exposto anteriormente, a categorização dos requisitos não-funcionai
 | RNF2 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | Performance |
 | RNF3 | O aplicativo deve estar disponível 24h | Performance |
 
-<figcaption>Tabela 1: categorização dos requisitos não funcionais</figcaption>
+<h6 align = "center">Tabela 1: categorização dos requisitos não funcionais<br>Fonte: autores</h6>
 
 </center>
 
