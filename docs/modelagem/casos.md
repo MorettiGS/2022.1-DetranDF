@@ -120,6 +120,7 @@ Foi utilizada a ferramenta "LucidChart" para a produção dos diagramas de casos
 
 ## 5. Histórico de Versão
 
-| Versão |     Data     |              Descrição               |      Autor      | Revisor |
-|:------:|:------------:|:------------------------------------:|:---------------:|:-------:|
-|0.1     |19/07         |Criação da página                     |Arthur Henrique e Thiago Gomes  |Alex     |
+| Versão | Data | Descrição | Autor | Revisor |
+|:-:|:-:|:-:|:-:|:-:|
+| 0.1 |19/07 | Criação da página  |Arthur Henrique e Thiago Gomes | Alex |
+| 0.2 |10/09 | Ajustes diagramas de caso de uso específicos | Thiago Gomes | Christian Fleury |
