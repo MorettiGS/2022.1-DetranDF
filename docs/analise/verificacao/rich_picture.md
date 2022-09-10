@@ -1,6 +1,6 @@
 # Verificação Rich Picture
 
-## **1. Contexto**
+## **1. Preparação**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex Gabriel e Matheus Costa
@@ -8,7 +8,7 @@
   
 O documento que estará sendo verificado pode ser acessado [aqui](../../prerastreabilidade/richPicture/richpicture.md)
 
-## **2. Checklist**
+## **2. Inspeção**
 
 | ID | Questões | Respostas |
 |----|----------|-----------|
@@ -23,13 +23,25 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../prerastr
 *Tabela 1: Checklist*
 
 
-## **3. Conclusão**
-Através do checklist realizado é possivel concluir que todas verificações do rich picture puderam ser validadas devidamente e não apresentará instabilidades numa possivel utilização não necessitando de correções drasticas ou até ser refeito.
+## **3. Correção**
+Todos os checklists foram corretamente validades sendo assim dispensada a necessidade de realizar correções.
 
-## 4. Histórico de versão
+## **4. Acompanhamento**
+
+A seguir é possivel visualizar na *Figura 1: Grafico de acerto do rich picture* a porcentagem de acerto obtido no checklist
+
+<center>
+
+<img src="../../../images/verificacao/acertos_richPicture.png">
+<h6 align = "center">Figura 1: Grafico de acerto do rich picture</h6>
+
+</center>
+
+## 5. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
+|0.3  | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |
 

@@ -1,6 +1,6 @@
 # Verificação Cenários
 
-## **1. Contexto**
+## **1. Preparação**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex
@@ -8,7 +8,7 @@
   
 O documento que estará sendo verificado pode ser acessado [aqui](../../modelagem/cenarios.md)
 
-## **2. Checklist**
+## **2. Inspeção**
 
 ### 2.1 C01
 | ID | Questões | Respostas |
@@ -101,13 +101,25 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 
 <center>*Tabela 7: Checklist Cenário 7*</center>
 
-## **3. Conclusão**
+## **3. Correção**
 
-A partir dos checklists aqui realizado, especificando para cada cenário criado durante o processo, é possível confirmar que todas as verificações puderam ser validadas corretamente e não foram encontrados erros graves ou que pudessem afetar a utilização dos mesmos.
+Todas as verificações puderam ser validadas corretamente e não será necessário realizar nenhuma correção.
 
-## 4. Histórico de versão
+## **4. Acompanhamento**
+
+A seguir é possivel visualizar na *Figura 1: Grafico de acerto dos cenários* a porcentagem de acerto obtido no checklist
+
+<center>
+
+<img src="../../../images/verificacao/acertos_cenarios.png">
+<h6 align = "center">Figura 1: Grafico de acerto dos cenários</h6>
+
+</center>
+
+## 5. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur | Paulo   |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
+|0.3  | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |
