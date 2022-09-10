@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-História de usuário é um tipo de narrativa simples que ilustra um requisito do usuário da perspectiva de uma persona ou cliente; fazem parte de uma estrutura ágil e de explicação informal. Um dos objetivos das histórias é mostrar como uma tarefa entregará determinado valor ao usuário.
+História de usuário é um tipo de narrativa simples que ilustra um requisito do usuário da perspectiva de uma [persona](../elicitação/persona.md) ou cliente; fazem parte de uma estrutura ágil e de explicação informal. Um dos objetivos das histórias é mostrar como uma tarefa entregará determinado valor ao usuário.
 
 As histórias de usuário possuem um ator ("Eu, como **usuário**..."), uma função ("...gostaria de **criar uma conta**...") e uma razão ("...**para ter acesso a todas as funções do aplicativo**"). As histórias de usuário também possuem critérios de aceitação, que definem as condições para que aquela história seja considerada entregue.
 

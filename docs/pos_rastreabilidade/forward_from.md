@@ -14,8 +14,8 @@ de criar ligações navegáveis entre o conteúdo presente nos artefatos que, po
 Os principais conceitos relacionados a rastreabilidade são:
 
 * Ligação de rastreamento (*Trace Link*): Associações semânticas entre duas entidades de rastreamento: fonte e destino.
-* Entidade de rastreamento (*Trace Artifacts*): Unidade que pode ser agrupada por tipo e características de sua estrutura, como: histórias de usuários, léxicos e 
-  cenários.
+* Entidade de rastreamento (*Trace Artifacts*): Unidade que pode ser agrupada por tipo e características de sua estrutura, como: [histórias de usuários](../modelagem/historia.md), [léxicos](../modelagem/lexico.md) e 
+  [cenários](../modelagem/lexico.md).
 * Relação de rastreamento (*Trace Relation*): Consiste em todas a ligações de rastreamento criadas entre dois conjuntos de tipos específicos de artefatos.
 
 A figura abaixo ilustra a relação entre os conceitos apresentados:

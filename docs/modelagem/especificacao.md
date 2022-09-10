@@ -3,7 +3,7 @@
 
 ## 1. Introdução
 Um documento de especificação suplementar trata-se de um documento no qual são descritos os requisitos não funcionais.
-Com isso, este documento visa abranger os requisitos não captados pelos Casos de uso e trazer uma complitude para a apresentação dos [requisitos levantados](../elicita%C3%A7%C3%A3o/resultado.md).
+Com isso, este documento visa abranger os requisitos não captados pelos [casos de uso](./casos.md) e trazer uma complitude para a apresentação dos [requisitos levantados](../elicita%C3%A7%C3%A3o/resultado.md).
 
 ## 2. Escopo
 O escopo dessa especificação restringe-se à aplicação Detran-DF. Essa aplicação tem como objetivo possibilitar ao usuário a realização de diversos serviços por meio do celular, como por exemplo diversas consultas sobre sua habilitação, seus veículos, gerar documentos digitais, entre outros.
@@ -68,7 +68,7 @@ Diante do exposto anteriormente, a categorização dos requisitos não-funcionai
 
 ## 1. Introdução
 Um documento de especificação suplementar trata-se de um documento no qual são descritos os requisitos não funcionais.
-Com isso, este documento visa abranger os requisitos não captados pelos Casos de uso e trazer uma complitude para a apresentação dos [requisitos levantados](../elicita%C3%A7%C3%A3o/resultado.md).
+Com isso, este documento visa abranger os requisitos não captados pelos [casos de uso](./casos.md) e trazer uma complitude para a apresentação dos [requisitos levantados](../elicita%C3%A7%C3%A3o/resultado.md).
 
 ## 2. Escopo
 O escopo dessa especificação restringe-se à aplicação Detran-DF. Essa aplicação tem como objetivo possibilitar ao usuário a realização de diversos serviços por meio do celular, como por exemplo diversas consultas sobre sua habilitação, seus veículos, gerar documentos digitais, entre outros.

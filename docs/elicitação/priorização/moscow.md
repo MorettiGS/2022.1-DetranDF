@@ -1,6 +1,6 @@
 # MoSCoW
 ## 1. Introdução
-MoSCoW é uma técnica de priorização de requisitos, que visa estabelecer um grau de prioridade para cada requisito do sistema que foi levantado, através das técnicas de elicitação. Essa priorização é útil para auxiliar o time a definir o que deve ser feito primeiro dentro do escopo do projeto.
+MoSCoW é uma técnica de priorização de requisitos, que visa estabelecer um grau de prioridade para cada requisito do sistema que foi levantado, através das técnicas de [elicitação](../../elicitação/resultado.md). Essa priorização é útil para auxiliar o time a definir o que deve ser feito primeiro dentro do escopo do projeto.
 
 ## 2. Metodologia
 Cada uma das letras em maiúsculo da sigla (M, S, C, W) faz referência a uma palavra originada do inglês, representando um tipo de categoria cada. Dessa forma, essa técnica de priorização de requisitos consiste na divisão dos requisitos levantados em 4 tipos:

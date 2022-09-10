@@ -8,7 +8,7 @@ Nesta seção foram agrupados os links com os vídeos da metodologia de Roleplay
 ## 2. Gravações do Roleplaying
 
 ### 2.1. Primeira gravação
-O primeiro vídeo foi feito para validar as histórias sobre os épicos de Veículos e de Agendamento. A persona 2, Maria Luzia da Conceição, foi interpretada pelo integrante Matheus e o analista foi interpretado pelo Alex. O link da gravação pode ser visto aqui: [Gravação 1 - Persona Maria](https://unbbr-my.sharepoint.com/:v:/g/personal/200056603_aluno_unb_br/EfU8XGY65-VMku7I3RwHGSUBGayY0B_7IvSk1FakOSVNLQ).
+O primeiro vídeo foi feito para validar as [histórias](../historia.md) sobre os [épicos](../historia.md) de Veículos e de Agendamento. A persona 2, Maria Luzia da Conceição, foi interpretada pelo integrante Matheus e o analista foi interpretado pelo Alex. O link da gravação pode ser visto aqui: [Gravação 1 - Persona Maria](https://unbbr-my.sharepoint.com/:v:/g/personal/200056603_aluno_unb_br/EfU8XGY65-VMku7I3RwHGSUBGayY0B_7IvSk1FakOSVNLQ).
 
 | Data | Duração aproximada | Horário | Ambiente de gravação |
 |:----:|:------------------:|:-------:|:--------------------:|

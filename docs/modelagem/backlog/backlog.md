@@ -10,7 +10,7 @@ sem quebrar o fluxo de trabalho.
 ## 2. Épicos
 Trata-se de uma modelagem que permite ao cliente definir o que é importante para o projeto, bem como o que é
 desnecessário. Uma vez definida a importância dos módulos de um projeto, é possível separar e agrupar os itens do backlog,
-facilitando a organização e a priorização. Em sua definição formal, pode-se afirmar que épicos são definidos como: “iniciativas
+facilitando a organização e a [priorização](../../elicitação/priorização/moscow.md). Em sua definição formal, pode-se afirmar que épicos são definidos como: “iniciativas
 de desenvolvimento que tem como objetivo entregar valor à um tema de investimento” (LEFFINGWELL, 2010).
 
 ## 3. Histórias de Usuários
