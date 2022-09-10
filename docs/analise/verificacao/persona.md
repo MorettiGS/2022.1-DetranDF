@@ -23,7 +23,15 @@ Na Tabela 1 a seguir constam os pontos verificados do artefato [Personas](../../
 <h6 align = "center">Tabela 1: checklist de personas<br>
 Fonte: autores</h6>
 
-## **3. Conclusão**
+## **3. Acompanhamento**
+
+Foram verificados 6 itens no artefato de Personas. Apenas 2 não foram atendidos, gerando o gráfico que pode ser visto na Figura 1 abaixo: 
+
+![grafico personas](https://user-images.githubusercontent.com/72279998/189495102-f8e8474a-54c9-4c5c-a006-a786da7d8c6c.png)
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros do checklist de Personas<br>Fonte: autores</h6>
+
+## **4. Conclusão**
 
 O detalhamento das personas parece estar bem completo, porém um fator importante que está faltando é o da especificação do perfil de usuário, que é o principal fator que molda a elaboração das personas.
 

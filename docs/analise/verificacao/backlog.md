@@ -29,7 +29,15 @@ Na Tabela 1 a seguir constam os pontos verificados do artefato [Backlog](../../m
 <h6 align = "center">Tabela 1: checklist de backlog<br>
 Fonte: autores</h6>
 
-## **3. Conclusão**
+## **3. Acompanhamento**
+
+Foram verificados 12 itens no artefato de Backlog. Apenas 5 não foram atendidos, gerando o gráfico que pode ser visto na Figura 1 abaixo: 
+
+![grafico backlog](https://user-images.githubusercontent.com/72279998/189495243-ddc857a9-3ccc-4c29-9274-ff4cd397ed98.png)
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros do checklist do Backlog<br>Fonte: autores</h6>
+
+## **4 Conclusão**
 
 Boa parte dos itens verificados foram cumpridos, abrangendo bem a entrega do artefato.
 
