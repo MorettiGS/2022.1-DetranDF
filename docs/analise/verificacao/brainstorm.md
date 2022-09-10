@@ -10,6 +10,8 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../elicita�
 
 ## **2. Inspeção**
 
+Abaixo segue a tabela com as informações da lista de controle de verificação do  documento que estará sendo verificado. O documento pode ser acessado [aqui](../../elicitação/brainstorm.md)
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1   |O brainstorm possui gravação em video?|&#10006|
@@ -42,4 +44,3 @@ A seguir é possivel visualizar na *Figura 1: Grafico de acerto do brainstorm* a
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex   |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Alex   |
 |0.3  | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |
-

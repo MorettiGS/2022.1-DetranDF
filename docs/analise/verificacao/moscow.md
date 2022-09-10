@@ -21,10 +21,17 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 
 <h6 align = "center">Tabela 1: checklist do documento de priorização</h6>
 
-## **3. Conclusão**
+## **3. Acompanhamento**
+
+Foram verificados 6 itens no artefato de priorização, no qual 3 estão corretos. Segue o gráfico: 
+
+![](../../images/verificacao/graficoMoSCoW.png)
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros checklist</h6>
+
+## **4. Conclusão**
 
 A técnica utilizada, o MoSCoW, foi aplicada de forma correta, mas falta a gravação da execução da técnica com a participação do cliente/usuário. Seria interessante aplicar mais de uma técnica na etapa de priorização. 
-
 ## Histórico de Versão
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |

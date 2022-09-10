@@ -25,12 +25,12 @@ nav:
     - NFR Framework: 'modelagem/nfr.md'
     - Backlog:
       - Backlog do produto: 'modelagem/backlog/backlog.md'
+      - Histórias de Usuários: 'modelagem/backlog/introducaoHistorias.md'
       - EP01 - Conta: 'modelagem/backlog/epConta.md'
       - EP02 - Habilitação: 'modelagem/backlog/epHabilitacao.md'
       - EP03 - Veículo: 'modelagem/backlog/epVeiculo.md'
       - EP04 - Infração: 'modelagem/backlog/epInfracao.md'
       - EP05 - Agendamentos: 'modelagem/backlog/epAgendamento.md'
-      - Histórias de Usuários: 'modelagem/historia.md'
   - Análise:
     - Verificação:
       - Planejamento: analise/verificacao/planejamento.md
@@ -45,7 +45,9 @@ nav:
       - Casos de Uso: analise/verificacao/casos_de_uso.md
       - Especificação Suplementar: analise/verificacao/esp_suplementar.md
       - NFR Framework: analise/verificacao/nfr_framework.md
-      - Backlog: analise/verificacao/backlog.md    
+      - Backlog: analise/verificacao/backlog.md 
+      - Backward-From: analise/verificacao/backward-from.md   
+      - Forward-From: analise/verificacao/forward-from.md  
     - Validação:
       - Prototipação: analise/validacao/prototipacao.md
       - Validação Informal: analise/validacao/validacao_informal.md

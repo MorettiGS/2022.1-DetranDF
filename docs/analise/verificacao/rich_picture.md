@@ -5,8 +5,6 @@
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Alex Gabriel e Matheus Costa
 - Inspetor: Arthur Henrique
-  
-O documento que estará sendo verificado pode ser acessado [aqui](../../prerastreabilidade/richPicture/richpicture.md)
 
 ## **2. Inspeção**
 
@@ -43,5 +41,4 @@ A seguir é possivel visualizar na *Figura 1: Grafico de acerto do rich picture*
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Paulo |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
-|0.3  | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |
-
+| 0.3 | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |

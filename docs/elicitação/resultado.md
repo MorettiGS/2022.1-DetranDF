@@ -11,6 +11,8 @@ RNF = Requisitos Não-Funcionais
 
 ### 2.1 Requisitos Funcionais
 
+Abaixo segue a tabela com todos os requisitos funcionais que foram elicitados pela equipe com as respectivas técnicas utilizadas. 
+
 <center>
 
 | Número    | Requisito                                                                  | Técnica    |
@@ -70,6 +72,8 @@ RNF = Requisitos Não-Funcionais
 
 ### 2.2 Requisitos Não-Funcionais
 
+Abaixo segue a tabela com todos os requisitos não funcionais que foram elicitados pela equipe com as respectivas técnicas utilizadas.
+
 <center>
 
 | Número     | Requisito   | Técnica    |
@@ -88,3 +92,4 @@ RNF = Requisitos Não-Funcionais
 |-----------|------------|---------------------|--------|--------|
 |<center>0.1| 12/07/2022 |Criação da página    | Arthur | Alex   |
 |<center>0.2| 13/07/2022 |Adição de requisitos do Brainstorm    | Thiago Siqueira Gomes | Alex   |
+|<center>0.3| 05/09/2022 |Adição de chamadas das tabelas    | Alex | Thiago   |

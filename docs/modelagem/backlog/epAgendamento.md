@@ -56,3 +56,4 @@ Eu, como **usuário** gostaria de **Escolher a hora de agendamento** para poder 
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 01/08/2022 | Criação do documento | Paulo Gontijo e Thiago Gomes | Arthur|
+|0.2|07/09/2022|Unificação dos documentos de histórias de usuário|Alex|Matheus|
