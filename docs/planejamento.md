@@ -47,7 +47,7 @@ Abaixo segue a Tabela 1 do planejamento do cronograma de atividades gerais:
 | Análise de Requisitos                                     | Verificação e validação                                                    | 10/08 - 16/08 | 
 | Pós-Rastreabilidade                                       | Gerência de Desenvolvimento de Software orientada à _baseline_ de Requisitos | 17/08 - 23/08 | 
 
-<h6 align = "center">Tabela 1: Cronograma geral</h6>
+<h6 align = "center">Tabela 1: Cronograma geral<br>Fonte: Autores</h6>
 
 ## 4. Tabelas de atividades
 
@@ -64,7 +64,8 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 | Descrição das ferramentas utilizadas |    [Christian Fleury](https://github.com/chfleury)       | [Matheus Costa](https://github.com/mc-gomes) | 25/06 | 27/06 | 28/06
 | Criação do documento "Metodologias" | Todos |    Todos   |     25/06       | 27/06 | 28/06 
 | Gravação da apresentação 1  | Todos | Todos | 27/06 | 28/06 | 29/06
-<h6 align = "center">Tabela 2: Tabela de atividades da Sprint 1</h6>
+
+<h6 align = "center">Tabela 2: Tabela de atividades da Sprint 1<br>Fonte: Autores</h6>
 
 ### Sprint 2
 
@@ -77,7 +78,8 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 |Brainstorming |Todos|Todos|05/07| 10/07 | 11/07
 |MoSCoW |[Thiago Siqueira](https://github.com/thgomes) e [Matheus Costa](https://github.com/mc-gomes)| [Christian Fleury](https://github.com/chfleury) e [Alex Gabriel](https://github.com/Gabriel-Axl)|05/07| 10/07 | 11/07
 |Gravação da apresentação 2|Todos |Todos|10/07| 11/07 | 12/07
-<h6 align = "center">Tabela 3: Tabela de atividades da Sprint 2</h6>
+
+<h6 align = "center">Tabela 3: Tabela de atividades da Sprint 2<br>Fonte: Autores</h6>
 
 ### Sprint 3
 
@@ -88,7 +90,8 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 |Criação do documento de casos de uso |[ Arthur Henrique ](https://github.com/black258br) e [Thiago Siqueira](https://github.com/thgomes)|[Alex Gabriel](https://github.com/Gabriel-Axl)| 13/07 | 16/07| 17/07 
 |Criação do documento de especificação suplementar |[Matheus Costa](https://github.com/mc-gomes)|[Paulo Henrique](https://github.com/paulohgontijoo)| 13/07 | 16/07| 17/07 
 |Gravar apresentação 3 |Todos|Todos| 17/07 | 18/07| 19/07 
-<h6 align = "center">Tabela 4: Tabela de atividades da Sprint 3</h6>
+
+<h6 align = "center">Tabela 4: Tabela de atividades da Sprint 3<br>Fonte: Autores</h6>
 
 
 ### Sprint 4
@@ -98,8 +101,9 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 |Criação do documento de backlog |[Paulo Henrique](https://github.com/paulohgontijoo) e [Thiago Siqueira](https://github.com/thgomes)|[Alex Gabriel](https://github.com/Gabriel-Axl) e [Matheus Costa](https://github.com/mc-gomes)| 21/07 | 28/07| 30/07
 |Criação do documento NFR Framework |[ Arthur Henrique ](https://github.com/black258br) e [Christian Fleury](https://github.com/chfleury)|[Paulo Henrique](https://github.com/paulohgontijoo) e [Thiago Siqueira](https://github.com/thgomes)| 21/07 | 28/07| 30/07
 |Criação do documento de histórias de usuário |[Alex Gabriel](https://github.com/Gabriel-Axl) e [Matheus Costa](https://github.com/mc-gomes) |[ Arthur Henrique ](https://github.com/black258br) e [Christian Fleury](https://github.com/chfleury)| 21/07 | 28/07| 30/07
-|Gravar apresentação 4 |Todos|Todos| 30/07 | 01/08 |02/08 
-<h6 align = "center">Tabela 5: Tabela de atividades da Sprint 4</h6>
+|Gravar apresentação 4 |Todos|Todos| 30/07 | 01/08 |02/08
+
+<h6 align = "center">Tabela 5: Tabela de atividades da Sprint 4<br>Fonte: Autores</h6>
 
 ### Sprint 5
 
@@ -120,7 +124,8 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 |Verificação backlog |[Matheus Costa](https://github.com/mc-gomes)|[Christian Fleury](https://github.com/chfleury)| 05/08 | 14/08 | 15/08
 |Validação  |[Christian Fleury](https://github.com/chfleury) e [Thiago Siqueira](https://github.com/thgomes)|[Matheus Costa](https://github.com/mc-gomes)| 05/08 | 14/08 | 15/08
 |Gravação da apresentação 5 |Todos|Todos| 14/08 | 15/08 | 16/08
-<h6 align = "center">Tabela 6: Tabela de atividades da Sprint 5</h6>
+
+<h6 align = "center">Tabela 6: Tabela de atividades da Sprint 5<br>Fonte: Autores</h6>
 
 ## 5. Horários disponíveis dos integrantes
 
@@ -128,7 +133,7 @@ Na Figura 1 abaixo é apresentada a disponibilidade dos integrantes de acordo co
 
 ![horarios_disponiveis](../assets/horarios_disponiveis.png "Horários Disponíves")
 
-<h6 align = "center">Figura 1: Horários disponíveis dos integrantes</h6>
+<h6 align = "center">Figura 1: Horários disponíveis dos integrantes<br>Fonte: Autores</h6>
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
 ## 6. Ferramentas Utilizadas
@@ -146,7 +151,7 @@ A Tabela 7 indica quais foram as ferramentas utilizadas pelo nossa equipe no pro
 | ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://code.visualstudio.com/) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
-<h6 align = "center">Tabela 7: Ferramentas utilizadas</h6>
+<h6 align = "center">Tabela 7: Ferramentas utilizadas<br>Fonte: Autores</h6>
 
 ## Referências
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
