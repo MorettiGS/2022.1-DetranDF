@@ -23,11 +23,19 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 
 <h6 align = "center">Tabela 1: checklist do documento de especificação suplementar<br>Fonte: Autores</h6>
 
-## **3. Conclusão**
+## **3. Acompanhamento**
+
+Foram verificados 8 itens no artefato de priorização, no qual 3 estão incorretos. Segue o gráfico: 
+
+![](../../images/verificacao/graficoEspSup.png)
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros do checklist da especificação suplementar<br>Fonte: autores</h6>
+
+## **4. Conclusão**
 
 A maioria das categorias do modelo furps+ não são especificadas, deve-se adicionar, ao documento, informações que abordem mais requisitos não-funcionais de acordo com cada categoria.
 
-## **4. Reunião de Consolidação**
+## **5. Reunião de Consolidação**
 
 No dia 10/09/2022 os integrantes Alex e Matheus discutiram a respeito dos resultados do checklist e, após essa conversa, foi gerado um novo resultado.
 
