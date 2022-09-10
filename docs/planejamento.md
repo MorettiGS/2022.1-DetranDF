@@ -51,7 +51,7 @@ Abaixo segue a Tabela 1 do planejamento do cronograma de atividades gerais:
 
 ## 4. Tabelas de atividades
 
-Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas sprints:
+Abaixo seguem tabelas de 2 a 7 de Atividades, de acordo com suas respectivas sprints:
 
 ### Sprint 1
 
@@ -127,6 +127,16 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 
 <h6 align = "center">Tabela 6: Tabela de atividades da Sprint 5<br>Fonte: Autores</h6>
 
+### Sprint 6
+
+| Tarefas         | Responsável   | Revisor         | Data de início prevista  | Data de revisão prevista| Entrega Prevista 
+| --------------- | ------------- | --------------- | ---------------- | ---| ---- 
+| Criação do artefato Backward-From |[Arthur Henrique](https://github.com/black258br), [Matheus Costa](https://github.com/mc-gomes) e [Alex Gabriel](https://github.com/Gabriel-Axl) | [Thiago Siqueira](https://github.com/thgomes), [Paulo Henrique](https://github.com/paulohgontijoo) e [Christian Fleury](https://github.com/chfleury)   |  17/08 | 22/08 | 23/08 
+| Criação do artefato Forward-From  | [Thiago Siqueira](https://github.com/thgomes), [Paulo Henrique](https://github.com/paulohgontijoo) e [Christian Fleury](https://github.com/chfleury) |  [Arthur Henrique](https://github.com/black258br), [Matheus Costa](https://github.com/mc-gomes) e [Alex Gabriel](https://github.com/Gabriel-Axl) |  17/08 | 22/08 | 23/08 
+| Gravação da apresentação 6  | Todos | Todos | 23/08 | 23/08 | 23/08
+
+<h6 align = "center">Tabela 7: Tabela de atividades da Sprint 6<br>Fonte: Autores</h6>
+
 ## 5. Horários disponíveis dos integrantes
 
 Na Figura 1 abaixo é apresentada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
@@ -134,10 +144,11 @@ Na Figura 1 abaixo é apresentada a disponibilidade dos integrantes de acordo co
 ![horarios_disponiveis](../assets/horarios_disponiveis.png "Horários Disponíves")
 
 <h6 align = "center">Figura 1: Horários disponíveis dos integrantes<br>Fonte: Autores</h6>
+
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
 ## 6. Ferramentas Utilizadas
-A Tabela 7 indica quais foram as ferramentas utilizadas pelo nossa equipe no projeto:
+A Tabela 8 indica quais foram as ferramentas utilizadas pelo nossa equipe no projeto:
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -151,7 +162,8 @@ A Tabela 7 indica quais foram as ferramentas utilizadas pelo nossa equipe no pro
 | ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://code.visualstudio.com/) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
-<h6 align = "center">Tabela 7: Ferramentas utilizadas<br>Fonte: Autores</h6>
+
+<h6 align = "center">Tabela 8: Ferramentas utilizadas<br>Fonte: Autores</h6>
 
 ## Referências
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
@@ -172,3 +184,4 @@ A Tabela 7 indica quais foram as ferramentas utilizadas pelo nossa equipe no pro
 | 0.7 | 03/08/2022 | Adição da tabela da Sprint 4 | Alex     | Todos   |
 | 0.8 | 17/08/2022 | Adição da tabela da Sprint 5 | Alex     | Todos   |
 | 0.9 | 30/08/2022 | Adição da Motivação da escolha do app e correções nas legendas e chamadas no texto | Matheus     | Paulo   |
+| 1.0 | 10/09/2022 | Adição da tabela da Sprint 6 | Matheus     | Alex   |
