@@ -34,7 +34,7 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 <center>
 <img src="..\..\images\nfr\nfr.jpeg">
 
-*Imagem 1: Legenda NFR Framework*
+*Figura 1: Legenda NFR Framework*
 </center>
 
 
@@ -45,14 +45,14 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 <center>
 <img src="..\..\images\nfr\suportabilidade_sem.png">
 
-*Imagem 2: Diagrama de Suportabilidade sem propagação*
+*Figura 2: Diagrama de Suportabilidade sem propagação*
 </center>
 
 #### 5.1.2 Com propagação
 <center>
 <img src="..\..\images\nfr\suportabilidade_com.png">
 
-*Imagem 3: Diagrama de Suportabilidade com propagação*
+*Figura 3: Diagrama de Suportabilidade com propagação*
 </center>
 
 
@@ -62,7 +62,7 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 <center>
 <img src="..\..\images\nfr\performance_sem.png">
 
-*Imagem 4: Diagrama de Performance sem propagação*
+*Figura 4: Diagrama de Performance sem propagação*
 </center>
 
 #### 5.2.2 Com propagação
@@ -70,7 +70,7 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 <center>
 <img src="..\..\images\nfr\performance_com.png">
 
-*Imagem 5: Diagrama de Performance com propagação*
+*Figura 5: Diagrama de Performance com propagação*
 </center>
 
 ## 6. Referências Bibliográficas
@@ -88,3 +88,4 @@ O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Fun
 | 0.2  | 03/08/2022 |Adição dos requisitos utilizados e NFR Framework     | Christian       | Alex e Matheus        |
 | 0.3  | 03/08/2022 |Adição da metodologia | Arthur | Alex e Matheus      |
 | 0.4  | 03/08/2022 |Adição das imagens 2-5    | Christian       | Alex e Matheus        |
+|0.5| 05/09/2022 |Correção das legendas das figuras   | Alex | Thiago   |

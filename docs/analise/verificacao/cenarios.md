@@ -10,7 +10,12 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 
 ## **2. Checklist**
 
+Abaixo segue a tabela com as informações da lista de controle de verificação do documento que estará sendo verificado. O documento pode ser acessado [aqui](../../modelagem/cenarios.md)
+
 ### 2.1 C01
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -24,6 +29,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 1: Checklist Cenário 1*</center>
 
 ### 2.2 C02
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -37,6 +45,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 2: Checklist Cenário 2*</center>
 
 ### 2.3 C03
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -50,6 +61,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 3: Checklist Cenário 3*</center>
 
 ### 2.4 C04
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -63,6 +77,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 4: Checklist Cenário 4*</center>
 
 ### 2.5 C05
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -76,6 +93,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 5: Checklist Cenário 5*</center>
 
 ### 2.6 C06
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -89,6 +109,9 @@ O documento que estará sendo verificado pode ser acessado [aqui](../../modelage
 <center>*Tabela 6: Checklist Cenário 6*</center>
 
 ### 2.7 C07
+
+Abaixo segue a tabela com as informações da lista de controle de verificação do cenário que estará sendo verificado.
+
 | ID | Questões | Respostas |
 |----|----------|-----------|
 |1| O titulo é auto-explicativo? |&#10004 |
@@ -111,3 +134,4 @@ A partir dos checklists aqui realizado, especificando para cada cenário criado 
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur | Paulo   |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Paulo   |
+|0.3|05/09/2022|Adição de chamada das tabelas|Alex|Thiago|
