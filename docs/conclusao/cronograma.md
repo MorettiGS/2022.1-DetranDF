@@ -101,7 +101,7 @@ Abaixo seguem tabelas de 2 a 6 de Atividades, de acordo com suas respectivas spr
 | --------------- | ------------- | --------------- | ---------------- | ---| ---- 
 |Backward from|[Alex Gabriel](https://github.com/Gabriel-Axl), [ Arthur Henrique ](https://github.com/black258br) e [Matheus Costa](https://github.com/mc-gomes)|[Christian Fleury](https://github.com/chfleury), [Thiago Siqueira](https://github.com/thgomes) e [Paulo Henrique](https://github.com/paulohgontijoo)|17/08|22/08|23/08|
 |Forward from|[Christian Fleury](https://github.com/chfleury), [Thiago Siqueira](https://github.com/thgomes) e [Paulo Henrique](https://github.com/paulohgontijoo)|[Alex Gabriel](https://github.com/Gabriel-Axl), [ Arthur Henrique ](https://github.com/black258br) e [Matheus Costa](https://github.com/mc-gomes)|17/08|22/08|23/08|
-|Gravação da apresentação 5 |Todos|Todos| 23/08 | 23/08 | 23/08
+|Gravação da apresentação 6 |Todos|Todos| 23/08 | 23/08 | 23/08
 <h6 align = "center">Tabela 7: Tabela de atividades da Sprint 6</h6>
 
 ***
