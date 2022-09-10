@@ -1,12 +1,14 @@
 # Verificação Brainstorm
 
-## **1. Contexto**
+## **1. Preparação**
 
 - Técnica Utilizada: Inspeção Check-List
 - Autores do documento: Paulo
 - Inspetor: Arthur Henrique
   
-## **2. Checklist**
+O documento que estará sendo verificado pode ser acessado [aqui](../../elicitação/brainstorm.md)
+
+## **2. Inspeção**
 
 Abaixo segue a tabela com as informações da lista de controle de verificação do  documento que estará sendo verificado. O documento pode ser acessado [aqui](../../elicitação/brainstorm.md)
 
@@ -20,14 +22,25 @@ Abaixo segue a tabela com as informações da lista de controle de verificação
 
 *Tabela 1: Checklist*
 
-## **3. Conclusão**
+## **3. Correção**
 
-Após a analise do documento e geração do check list é possivel identificar que não tem acesso à gravação do brainstorm para possíveis consultas, tirando isso os outros checks puderam ser validados corretamente não sendo encontrados erros graves.
+É possivel identificar que não tem a gravação do brainstorm ja que a mesma foi realizada presencialmente em horario de aula disponibilizado para desenvolvimento do projeto, tirando isso os outros checks puderam ser validados corretamente não sendo encontrados erros graves.
 
-## 4. Histórico de versão
+## **4. Acompanhamento**
+
+A seguir é possivel visualizar na *Figura 1: Grafico de acerto do brainstorm* a porcentagem de acerto obtido no checklist
+
+<center>
+
+<img src="../../../images/verificacao/acertos_cenarios.png">
+<h6 align = "center">Figura 1: Grafico de acerto do brainstorm</h6>
+
+</center>
+
+## 5. Histórico de versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
 | 0.1 | 17/08/2022 |Criação da página    | Arthur |Alex   |
 | 0.2 | 17/08/2022 |Adição de legendas nas tabelas    | Arthur |Alex   |
-|0.3|05/09/2022|Adição de chamada das tabelas|Alex|Thiago|
+|0.3  | 10/09 | Adaptação para modelo de fagan | Arthur | Alex |
