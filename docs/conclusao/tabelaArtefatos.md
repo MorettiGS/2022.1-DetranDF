@@ -4,7 +4,7 @@
 
 Este documento objetiva representar quantos e quais artefatos foram utilizados durante o nosso projeto separados por cada etapa de entrega, descreve tambem para que cada um veio a servir, será representado seus respectivos criadores e revisores.
 
-Foram criados X artefatos
+Foram criados 40 artefatos
 
 ## 2. Tabela dos artefatos
 
