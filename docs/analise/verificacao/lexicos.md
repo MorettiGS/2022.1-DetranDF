@@ -130,7 +130,15 @@ A seguir é apresentado as tabelas de checklist de todos os [léxicos](../../mod
 
 <h6 align = "center">Tabela 10: checklist do léxico consultar veículo</h6>
 
-## **3. Conclusão**
+## **3. Acompanhamento**
+
+Foram verificados 10 léxicos, sendo um total de 5 itens no checklist de cada. Ao todo foram verificados 50 itens no artefato de léxicos, no qual 7 estão incorretos. Segue o gráfico: 
+
+![](../../images/verificacao/graficoLexicos.png)
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros dos checklists</h6>
+
+## **4. Conclusão**
 
 Alguns dos léxicos podem ser fragmentados em mais léxicos, por exemplo, o léxico de agendamento, que pode ser fracionado em agendamento, agendar atendimento, consultar agendamento. 
 Existem alguns termos que não foram abordados pelo documento de léxicos como serviços, vistoria, emitir CRLV-e/ATPV-e, identificação do veículo, renavan, placa, tranferir pontuação, veículos e etc. O link de veículos no léxico de CNH não funciona.

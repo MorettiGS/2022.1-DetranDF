@@ -8,6 +8,8 @@ Os requisitos funcionais e não funcionais elicitados anteriormente são organiz
 
 ## 3. Rastreabilidade requisitos funcionais
 
+Abaixo segue a tabela com as informações de rastreabilidade dos requisitos funcionais:
+
 | Número    | Requisito                                                                  | Origem    |Elos|
 | :-: |-|:-:|:-:|
 | RF01 |O usuário deve ser capaz de se registrar no aplicativo                            |Introspecção|[**EF01**](#ef01)|
@@ -63,6 +65,8 @@ Os requisitos funcionais e não funcionais elicitados anteriormente são organiz
 <h6 align = "center">Tabela 1: Rastreabilidade de requisitos funcionais</h6>
 
 ## 4. Rastreabilidade de requisitos não funcionais 
+
+Abaixo segue a tabela com as informações de rastreabilidade dos requisitos não funcionais:
 
 | Número     | Requisito   | Origem    |Elos|
 |:------------:|-----------------|------------|-----|
@@ -475,3 +479,4 @@ Agregação: [RNF3](../modelagem/especificacao.md) agrega [Performance](../model
 |  0.1   |  24/08/2022  |         Criação do documento e adição das rastreabilidades funcionais 1 ao 16 e não funcional 1       | Alex | Arthur |
 |  0.2   |  24/08/2022  |        Adição das rastreabilidades funcionais 16 ao 32 e não funcional 2       | Arthur | Matheus |
 |  0.3   |  24/08/2022  |        Adição das rastreabilidades funcionais 32 ao 48 e não funcional 3       | Matheus | Alex |
+|0.4|05/09/2022|Adição de chamada das tabelas|Alex|Thiago|

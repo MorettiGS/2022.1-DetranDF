@@ -23,14 +23,15 @@ nav:
     - Casos de Uso: 'modelagem/casos.md'
     - Especificação Suplementar: 'modelagem/especificacao.md'
     - NFR Framework: 'modelagem/nfr.md'
+    - QaSE: 'modelagem/qase.md'
     - Backlog:
       - Backlog do produto: 'modelagem/backlog/backlog.md'
+      - Histórias de Usuários: 'modelagem/backlog/introducaoHistorias.md'
       - EP01 - Conta: 'modelagem/backlog/epConta.md'
       - EP02 - Habilitação: 'modelagem/backlog/epHabilitacao.md'
       - EP03 - Veículo: 'modelagem/backlog/epVeiculo.md'
       - EP04 - Infração: 'modelagem/backlog/epInfracao.md'
       - EP05 - Agendamentos: 'modelagem/backlog/epAgendamento.md'
-      - Histórias de Usuários: 'modelagem/historia.md'
   - Análise:
     - Verificação:
       - Planejamento: analise/verificacao/planejamento.md
@@ -45,11 +46,23 @@ nav:
       - Casos de Uso: analise/verificacao/casos_de_uso.md
       - Especificação Suplementar: analise/verificacao/esp_suplementar.md
       - NFR Framework: analise/verificacao/nfr_framework.md
-      - Backlog: analise/verificacao/backlog.md    
+      - Backlog: analise/verificacao/backlog.md 
+      - Backward-From: analise/verificacao/backward-from.md   
+      - Forward-From: analise/verificacao/forward-from.md  
     - Validação:
       - Prototipação: analise/validacao/prototipacao.md
       - Validação Informal: analise/validacao/validacao_informal.md
   - Pós-Rastreabilidade:
+    - Matriz Geral: pos_rastreabilidade/matriz_geral.md
     - Backward-From: pos_rastreabilidade/backward_from.md
     - Forward-From: pos_rastreabilidade/forward_from.md
+  - Conclusão:
+    - Aplicativo Selecionado: conclusao/aplicativo.md
+    - Cronograma planejado e executado: conclusao/cronograma.md
+    - Ferramentas utilizadas: conclusao/tabelaFerramentas.md
+    - Execução do projeto: conclusao/execucao.md
+    - Resultados alcançados: conclusao/resultadosEsperados.md
+    - Técnicas Utilizadas: conclusao/tabelaTecnicas.md
+    - Artefatos Criados: conclusao/tabelaArtefatos.md
+    - Metodos de Validação/Verificação: conclusao/tabelaMetododeVerificacao.md    
   - Apresentações: 'apresentacoes.md'

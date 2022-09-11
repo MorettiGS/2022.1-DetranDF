@@ -25,12 +25,20 @@ Na Tabela 1 a seguir constam os pontos verificados do artefato [NFR Framework](.
 <h6 align = "center">Tabela 1: checklist de NFR framework<br>
 Fonte: autores</h6>
 
+## **3. Acompanhamento**
 
-## **3. Conclusão**
+Foram verificados 8 itens no artefato NFR Framework. Destes, 5 foram atendidos e 3 não foram, gerando o gráfico que pode ser visto na Figura 1 abaixo: 
+
+![grafico nfr](https://user-images.githubusercontent.com/72279998/189495003-28d0b2e2-b0e0-406d-b943-679803978b34.png)
+
+
+<h6 align = "center">Figura 1: Gráfico acertos/erros do checklist do NFR<br>Fonte: autores</h6>
+
+## **4. Conclusão**
 
 O artefato abrangeu os principais pontos, porém foi observado que faltaram alguns detalhes importates, como uma melhor descrição do que são os softgoals ou então a implementação de todos os 3 tipos de softgoal.
 
-Foi observado também que só foram captadas 2 categorias do modelo FURPS+, o que indica uma menor quantidade de reqiusitos que se enquadrassem nas categorias remanescentes.
+Foi observado também que só foram captadas 2 categorias do modelo FURPS+, o que indica uma menor quantidade de requisitos que se enquadrassem nas categorias remanescentes.
 
 ***
 ## Histórico de Versão

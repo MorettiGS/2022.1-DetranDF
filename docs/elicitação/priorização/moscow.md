@@ -82,8 +82,27 @@ Na *Tabela 2* abaixo foram categorizados os requisitos não-funcionais elicitado
 <h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
 
+# Return on Investment
+## Introdução
+Return On investment (RoI) é uma técnica de priorização que visa estabelecer um grau de prioridade para cada épico de acordo com o retorno gerado em sua implementação em relação ao custo. 
 
+## Metodologia
+Foi realizada uma entrevista com o usuário/cliente para definir qual o aumento de satisfação do cliente e aumento de usuários com a implementação de cada épico. A gravação se encontra em: https://www.youtube.com/watch?v=s1Wnj-S8_to
 
+## Resultado
+Como resultado foi gerada uma tabela com a prioridade de cada épico.
+
+| Épico | Aumento de Satisfação do cliente | Aumento de Usuários do Aplicativo | Valor total | Valor percentual (benefício)| Estimativa de custo | Prioridade (RoI)
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| EP01 - Conta | 8 | 6 |14 |18.18% | 10% | 181.80% |
+| EP02 - Habilitação | 9 | 9 |18 |23.37% | 30% | 77.90% |
+| EP03 - Veículo | 9 | 9 |18 |23.37% | 30% | 77.90% |
+| EP04 - Infração | 7 | 7 |14 |18.18% | 25% | 72.71% |
+| EP05 - Agendamentos | 6 | 7 |13 |16.88% | 5% | 337.70% |
+| TOTAL | - | - |77 |100% | 100% | - |
+
+<h6 align = "center">Tabela 3: Return on Investment</h6>
+ 
 ## Referências
 
 > BECKER, Alice. **Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa**. Voitto, 2020. Disponível em: [https://www.voitto.com.br/blog/artigo/metodo-moscow](https://www.voitto.com.br/blog/artigo/metodo-moscow). Acesso em: 12 de jul. de 2022.
@@ -101,4 +120,4 @@ Na *Tabela 2* abaixo foram categorizados os requisitos não-funcionais elicitado
 | 0.3    | 12/07/2022 | Revisão e correção ortográfica em alguns textos, Adição de Referências, Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
 | 0.4    | 13/07/2022 | Separação de requisitos do Questionário entre funcionais e não funcionais, Reestruturação do documento | Matheus Costa | Thiago Gomes |
 | 0.5    | 12/07/2022 | Adiciona priorização de requisitos do brainstorm | Thiago Gomes | Matheus Costa |
-
+| 0.6    | 10/09/2022 | Adiciona técnica de priorização Return on Investment | Christian Fleury | Thiago Gomes |
