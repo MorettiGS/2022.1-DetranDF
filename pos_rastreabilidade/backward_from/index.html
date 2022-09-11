@@ -1,0 +1,2856 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../images/detrandf_logo.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.4.3">
+    
+    
+      
+        <title>Backward-From - Detran-DF</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b80c2a2.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1-introducao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Detran-DF" class="md-header__button md-logo" aria-label="Detran-DF" data-md-component="logo">
+      
+  <img src="../../images/detrandf_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Detran-DF
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backward-From
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Detran-DF" class="md-nav__button md-logo" aria-label="Detran-DF" data-md-component="logo">
+      
+  <img src="../../images/detrandf_logo.png" alt="logo">
+
+    </a>
+    Detran-DF
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prerastreabilidade/richPicture/richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Técnicas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/persona/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/resultado/" class="md-nav__link">
+        Resultado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/moscow/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexico/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/casos/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/nfr/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/qase/" class="md-nav__link">
+        QaSE
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_7" type="checkbox" id="__nav_5_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_7">
+          Backlog
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Backlog" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_7">
+          <span class="md-nav__icon md-icon"></span>
+          Backlog
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/backlog/" class="md-nav__link">
+        Backlog do produto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/introducaoHistorias/" class="md-nav__link">
+        Histórias de Usuários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/epConta/" class="md-nav__link">
+        EP01 - Conta
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/epHabilitacao/" class="md-nav__link">
+        EP02 - Habilitação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/epVeiculo/" class="md-nav__link">
+        EP03 - Veículo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/epInfracao/" class="md-nav__link">
+        EP04 - Infração
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/epAgendamento/" class="md-nav__link">
+        EP05 - Agendamentos
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/rich_picture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/persona/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/moscow/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/casos_de_uso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/esp_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/nfr_framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/backward-from/" class="md-nav__link">
+        Backward-From
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/forward-from/" class="md-nav__link">
+        Forward-From
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Validação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/prototipacao/" class="md-nav__link">
+        Prototipação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/validacao_informal/" class="md-nav__link">
+        Validação Informal
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Pós-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pós-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Pós-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matriz_geral/" class="md-nav__link">
+        Matriz Geral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Backward-From
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Backward-From
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-rastreabilidade-requisitos-funcionais" class="md-nav__link">
+    3. Rastreabilidade requisitos funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-rastreabilidade-de-requisitos-nao-funcionais" class="md-nav__link">
+    4. Rastreabilidade de requisitos não funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elos-funcionais" class="md-nav__link">
+    5. Elos funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elos funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ef01" class="md-nav__link">
+    EF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef02" class="md-nav__link">
+    EF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef03" class="md-nav__link">
+    EF03
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef04" class="md-nav__link">
+    EF04
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef05" class="md-nav__link">
+    EF05
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef06" class="md-nav__link">
+    EF06
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef07" class="md-nav__link">
+    EF07
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef08" class="md-nav__link">
+    EF08
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef09" class="md-nav__link">
+    EF09
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef10" class="md-nav__link">
+    EF10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef11" class="md-nav__link">
+    EF11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef12" class="md-nav__link">
+    EF12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef13" class="md-nav__link">
+    EF13
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef14" class="md-nav__link">
+    EF14
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef15" class="md-nav__link">
+    EF15
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef16" class="md-nav__link">
+    EF16
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef17" class="md-nav__link">
+    EF17
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef18" class="md-nav__link">
+    EF18
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef19" class="md-nav__link">
+    EF19
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef20" class="md-nav__link">
+    EF20
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef21" class="md-nav__link">
+    EF21
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef22" class="md-nav__link">
+    EF22
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef23" class="md-nav__link">
+    EF23
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef24" class="md-nav__link">
+    EF24
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef25" class="md-nav__link">
+    EF25
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef26" class="md-nav__link">
+    EF26
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef27" class="md-nav__link">
+    EF27
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef28" class="md-nav__link">
+    EF28
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef29" class="md-nav__link">
+    EF29
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef30" class="md-nav__link">
+    EF30
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef31" class="md-nav__link">
+    EF31
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef32" class="md-nav__link">
+    EF32
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef33" class="md-nav__link">
+    EF33
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef34" class="md-nav__link">
+    EF34
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef35" class="md-nav__link">
+    EF35
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef36" class="md-nav__link">
+    EF36
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef37" class="md-nav__link">
+    EF37
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef38" class="md-nav__link">
+    EF38
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef39" class="md-nav__link">
+    EF39
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef40" class="md-nav__link">
+    EF40
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef41" class="md-nav__link">
+    EF41
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef42" class="md-nav__link">
+    EF42
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef43" class="md-nav__link">
+    EF43
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef44" class="md-nav__link">
+    EF44
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef45" class="md-nav__link">
+    EF45
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef46" class="md-nav__link">
+    EF46
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef47" class="md-nav__link">
+    EF47
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef48" class="md-nav__link">
+    EF48
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-elos-nao-funcionais" class="md-nav__link">
+    6. Elos não funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Elos não funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#enf01" class="md-nav__link">
+    ENF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enf02" class="md-nav__link">
+    ENF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enf03" class="md-nav__link">
+    ENF03
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../forward_from/" class="md-nav__link">
+        Forward-From
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Conclusão
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Conclusão" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Conclusão
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/aplicativo/" class="md-nav__link">
+        Aplicativo Selecionado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/cronograma/" class="md-nav__link">
+        Cronograma planejado e executado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/tabelaFerramentas/" class="md-nav__link">
+        Ferramentas utilizadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/execucao/" class="md-nav__link">
+        Execução do projeto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/resultadosEsperados/" class="md-nav__link">
+        Resultados alcançados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/tabelaTecnicas/" class="md-nav__link">
+        Técnicas Utilizadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/tabelaArtefatos/" class="md-nav__link">
+        Artefatos Criados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusao/tabelaMetododeVerificacao/" class="md-nav__link">
+        Metodos de Validação/Verificação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-rastreabilidade-requisitos-funcionais" class="md-nav__link">
+    3. Rastreabilidade requisitos funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-rastreabilidade-de-requisitos-nao-funcionais" class="md-nav__link">
+    4. Rastreabilidade de requisitos não funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-elos-funcionais" class="md-nav__link">
+    5. Elos funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Elos funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ef01" class="md-nav__link">
+    EF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef02" class="md-nav__link">
+    EF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef03" class="md-nav__link">
+    EF03
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef04" class="md-nav__link">
+    EF04
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef05" class="md-nav__link">
+    EF05
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef06" class="md-nav__link">
+    EF06
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef07" class="md-nav__link">
+    EF07
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef08" class="md-nav__link">
+    EF08
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef09" class="md-nav__link">
+    EF09
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef10" class="md-nav__link">
+    EF10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef11" class="md-nav__link">
+    EF11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef12" class="md-nav__link">
+    EF12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef13" class="md-nav__link">
+    EF13
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef14" class="md-nav__link">
+    EF14
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef15" class="md-nav__link">
+    EF15
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef16" class="md-nav__link">
+    EF16
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef17" class="md-nav__link">
+    EF17
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef18" class="md-nav__link">
+    EF18
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef19" class="md-nav__link">
+    EF19
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef20" class="md-nav__link">
+    EF20
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef21" class="md-nav__link">
+    EF21
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef22" class="md-nav__link">
+    EF22
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef23" class="md-nav__link">
+    EF23
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef24" class="md-nav__link">
+    EF24
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef25" class="md-nav__link">
+    EF25
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef26" class="md-nav__link">
+    EF26
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef27" class="md-nav__link">
+    EF27
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef28" class="md-nav__link">
+    EF28
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef29" class="md-nav__link">
+    EF29
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef30" class="md-nav__link">
+    EF30
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef31" class="md-nav__link">
+    EF31
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef32" class="md-nav__link">
+    EF32
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef33" class="md-nav__link">
+    EF33
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef34" class="md-nav__link">
+    EF34
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef35" class="md-nav__link">
+    EF35
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef36" class="md-nav__link">
+    EF36
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef37" class="md-nav__link">
+    EF37
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef38" class="md-nav__link">
+    EF38
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef39" class="md-nav__link">
+    EF39
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef40" class="md-nav__link">
+    EF40
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef41" class="md-nav__link">
+    EF41
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef42" class="md-nav__link">
+    EF42
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef43" class="md-nav__link">
+    EF43
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef44" class="md-nav__link">
+    EF44
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef45" class="md-nav__link">
+    EF45
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef46" class="md-nav__link">
+    EF46
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef47" class="md-nav__link">
+    EF47
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef48" class="md-nav__link">
+    EF48
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-elos-nao-funcionais" class="md-nav__link">
+    6. Elos não funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Elos não funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#enf01" class="md-nav__link">
+    ENF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enf02" class="md-nav__link">
+    ENF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enf03" class="md-nav__link">
+    ENF03
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+  <h1>Backward-From</h1>
+
+<hr />
+<h2 id="1-introducao">1. Introdução</h2>
+<p>Este documento visa registrar a rastreabilidade dos requisitos elicitados pelo grupo, com o foco de indicar de onde eles vieram e referenciar esta origem.</p>
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p>Os requisitos funcionais e não funcionais elicitados anteriormente são organizados na tabela a seguir e seus rastreamentos, tambem serão verificados os seus respectivos elos relacionados a cada artefato.</p>
+<h2 id="3-rastreabilidade-requisitos-funcionais">3. Rastreabilidade requisitos funcionais</h2>
+<p>Abaixo segue a tabela com as informações de rastreabilidade dos requisitos funcionais:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Número</th>
+<th>Requisito</th>
+<th align="center">Origem</th>
+<th align="center">Elos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RF01</td>
+<td>O usuário deve ser capaz de se registrar no aplicativo</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef01"><strong>EF01</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF02</td>
+<td>O usuário deve ser capaz de fazer o login na sua conta</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef02"><strong>EF02</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF03</td>
+<td>O usuário deve ser capaz de visualizar sua CNH eletrônica</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef03"><strong>EF03</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF04</td>
+<td>O usuário deve ser capaz de visualizar suas multas</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef04"><strong>EF04</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF05</td>
+<td>O usuário deve ser capaz de consultar os pontos da carteira</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef05"><strong>EF05</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF06</td>
+<td>O usuário deve ser capaz de fazer um agendamento de atendimento presencial</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef06"><strong>EF06</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF07</td>
+<td>O usuário deve ser capaz de encontrar os números de contato do Detran</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef07"><strong>EF07</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF08</td>
+<td>O usuário deve ser capaz de solicitar 2ª via da CNH</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef08"><strong>EF08</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF09</td>
+<td>O usuário deve ser capaz de gerar boletos para pagar suas multas</td>
+<td align="center">Introspecção</td>
+<td align="center"><a href="#ef09"><strong>EF09</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF10</td>
+<td>Deverá ser possível acessar a habilitação</td>
+<td align="center">Questionário</td>
+<td align="center"><a href="#ef10"><strong>EF10</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF11</td>
+<td>Deverá ser possível consultar o veículo</td>
+<td align="center">Questionário</td>
+<td align="center"><a href="#ef11"><strong>EF11</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF12</td>
+<td>Deverá ser possível consultar infrações</td>
+<td align="center">Questionário</td>
+<td align="center"><a href="#ef12"><strong>EF12</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF13</td>
+<td>Deverá ser possível agendar atendimentos</td>
+<td align="center">Questionário</td>
+<td align="center"><a href="#ef13"><strong>EF13</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF14</td>
+<td>Deve ser possível consultar informações sobre multas</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef14"><strong>EF14</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF15</td>
+<td>Deve ser possível consultar informações sobre documentos</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef15"><strong>EF15</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF16</td>
+<td>Deve ser possível realizar transferências de veículos de forma eletrônica</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef16"><strong>EF16</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF17</td>
+<td>Deve ser possível consultar informações históricas sobre o veículo</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef17"><strong>EF17</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF18</td>
+<td>Deve ser possível emitir eletrônicamente o CRLV</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef18"><strong>EF18</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF19</td>
+<td>Deve ser possível alterar o endereço do proprietário do veículo</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef19"><strong>EF19</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF20</td>
+<td>Deve ser possível emitir o ATPV</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef20"><strong>EF20</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF21</td>
+<td>Deve ser possível agendar vistorias veiculares</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef21"><strong>EF21</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF22</td>
+<td>Deve ser possível emitir CNH eletrônica</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef22"><strong>EF22</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF23</td>
+<td>Deve ser possível consultar informações sobre bloqueios</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef23"><strong>EF23</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF24</td>
+<td>Deve ser possível consultar informações sobre ocorrências</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef24"><strong>EF24</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF25</td>
+<td>Deve ser possível emitir documento de nada consta</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef25"><strong>EF25</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF26</td>
+<td>Deve ser possível consultar informações sobre processo de obtenção da habilitação</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef26"><strong>EF26</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF27</td>
+<td>Deve ser possível solicitar CNH definitiva</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef27"><strong>EF27</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF28</td>
+<td>Deve ser possível solicitar 2ª via de CNH</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef28"><strong>EF28</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF29</td>
+<td>Deve ser possível solicitar autorização de estacionamento para idosos</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef29"><strong>EF29</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF30</td>
+<td>Deve ser possível solicitar autorização de estacionamento para PCDs</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef30"><strong>EF30</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF31</td>
+<td>Deve ser possível modificar endereço do proprietário da CNH</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef31"><strong>EF31</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF32</td>
+<td>Deve ser possível consultar infrações</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef32"><strong>EF32</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF33</td>
+<td>Deve ser possível transferir pontos de infrações</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef33">EF33</a></td>
+</tr>
+<tr>
+<td align="center">RF34</td>
+<td>Deve ser possível transferir titularidade de multa</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef34">EF34</a></td>
+</tr>
+<tr>
+<td align="center">RF35</td>
+<td>Deve ser possível realizar pagamento de multa</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef35">EF35</a></td>
+</tr>
+<tr>
+<td align="center">RF36</td>
+<td>Deve ser possível agendar serviços</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef36">EF36</a></td>
+</tr>
+<tr>
+<td align="center">RF37</td>
+<td>Deve ser possível escolher data de agendamento</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef37">EF37</a></td>
+</tr>
+<tr>
+<td align="center">RF38</td>
+<td>Deve ser possível escolher unidade de agendamento</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef38">EF38</a></td>
+</tr>
+<tr>
+<td align="center">RF39</td>
+<td>Deve ser possível escolher hora de agendamento</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef39">EF39</a></td>
+</tr>
+<tr>
+<td align="center">RF40</td>
+<td>Deve ser possível consulta endereço de unidades</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef40">EF40</a></td>
+</tr>
+<tr>
+<td align="center">RF41</td>
+<td>Deve ser possível realizar contato com ouvidoria</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef41">EF41</a></td>
+</tr>
+<tr>
+<td align="center">RF42</td>
+<td>Deve ser possível alterar email</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef42">EF42</a></td>
+</tr>
+<tr>
+<td align="center">RF43</td>
+<td>Deve ser possível alterar senha</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef43">EF43</a></td>
+</tr>
+<tr>
+<td align="center">RF44</td>
+<td>Deve ser possível reenviar e-mail de validação</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef44">EF44</a></td>
+</tr>
+<tr>
+<td align="center">RF45</td>
+<td>Deve ser possível cadastrar biometria</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef45">EF45</a></td>
+</tr>
+<tr>
+<td align="center">RF46</td>
+<td>Deve ser possível cadastrar Cpf/Cnpj</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef46">EF46</a></td>
+</tr>
+<tr>
+<td align="center">RF47</td>
+<td>Deve ser possível consultar pontuação de infrações associadas ao condutor</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef47">EF47</a></td>
+</tr>
+<tr>
+<td align="center">RF48</td>
+<td>Deve ser possível cadastrar uma senha</td>
+<td align="center">Brainstorm</td>
+<td align="center"><a href="#ef48">EF48</a></td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center">Tabela 1: Rastreabilidade de requisitos funcionais</h6>
+
+<h2 id="4-rastreabilidade-de-requisitos-nao-funcionais">4. Rastreabilidade de requisitos não funcionais</h2>
+<p>Abaixo segue a tabela com as informações de rastreabilidade dos requisitos não funcionais:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Número</th>
+<th>Requisito</th>
+<th>Origem</th>
+<th>Elos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RNF1</td>
+<td>O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS</td>
+<td>Introspecção</td>
+<td><a href="#enf01"><strong>ENF01</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF2</td>
+<td>O aplicativo deve ter uma latência máxima de 1000ms por requisição</td>
+<td>Introspecção</td>
+<td><a href="#enf02"><strong>ENF02</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF3</td>
+<td>O aplicativo deve estar disponível 24h</td>
+<td>Introspecção, Questionário</td>
+<td><a href="#enf03">ENF03</a></td>
+</tr>
+</tbody>
+</table>
+<h6 align = "center">Tabela 2: Rastreabilidade de requisitos não funcionais</h6>
+
+<h2 id="5-elos-funcionais"><strong>5. Elos funcionais</strong></h2>
+<h3 id="ef01">EF01</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/backlog/epConta/">US01</a> representa RF01<br>
+Representação: <a href="../../modelagem/casos/">Caso 1</a> representa <a href="../../modelagem/cenarios/">C01</a><br>
+Representação: <a href="../../modelagem/cenarios/">C01</a> representa <a href="../../modelagem/lexico/">Léxico: Registrar</a></p>
+<h3 id="ef02">EF02</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/backlog/epConta/">US02</a> representa RF02<br>
+Representação: <a href="../../modelagem/casos/">Caso 2</a> representa <a href="../../modelagem/cenarios/">C02</a><br>
+Representação: <a href="../../modelagem/cenarios/">C02</a> representa <a href="../../modelagem/lexico/">Léxico: Login</a></p>
+<h3 id="ef03">EF03</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa RF03<br>
+Representação: <a href="../../modelagem/backlog/epHabilitacao/">US07</a> representa <a href="../../modelagem/casos/">Caso 3</a> </p>
+<h3 id="ef04">EF04</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Visualizar multa</a> representa RF04<br>
+Representação: <a href="../../modelagem/backlog/epInfracao/">US18</a> representa <a href="../../modelagem/casos/">Caso 4</a></p>
+<h3 id="ef05">EF05</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Consultar Pontos</a> representa RF05 <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa <a href="../../modelagem/casos/">caso 3</a></p>
+<h3 id="ef06">EF06</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Agendamento</a> representa <a href="../../modelagem/cenarios/">C07</a><br>
+Representação: <a href="../../modelagem/casos/">Caso 6</a>  representa <a href="../../modelagem/backlog/epAgendamento/">US23</a></p>
+<h3 id="ef07">EF07</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Contato</a> representa RF07<br>
+Representação: <a href="../../analise/validacao/prototipacao/">Prototipo</a> representa <a href="../../modelagem/lexico/">Léxico: Contato</a></p>
+<h3 id="ef08">EF08</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa <a href="../../modelagem/casos/">caso 3</a><br>
+Representação: <a href="../../modelagem/casos/">caso 3</a> representa <a href="../../modelagem/backlog/epHabilitacao/">US08</a></p>
+<h3 id="ef09">EF09</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../analise/validacao/prototipacao/">Prototipo</a> representa RF09</p>
+<h3 id="ef10">EF10</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: CNH</a> representa <a href="../../modelagem/cenarios/">C05</a><br>
+Representação: <a href="../../modelagem/casos/">caso 3</a> representa <a href="../../modelagem/backlog/epHabilitacao/">US07</a></p>
+<h3 id="ef11">EF11</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Consultar o Veículo</a> representa <a href="../../modelagem/cenarios/">C04</a><br>
+Representação: <a href="../../modelagem/casos/">caso 4</a> representa <a href="../../modelagem/backlog/epVeiculo/">US12</a></p>
+<h3 id="ef12">EF12</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a><br>
+Representação:  <a href="../../modelagem/backlog/epInfracao/">US17</a> representa <a href="../../modelagem/casos/">caso 5</a> </p>
+<h3 id="ef13">EF13</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação:<a href="../../modelagem/lexico/">Léxico: Agendamento</a> representa <a href="../../modelagem/cenarios/">C07</a><br>
+Representação:<a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/backlog/epHabilitacao/">US23</a></p>
+<h3 id="ef14">EF14</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Agregação: <a href="../../elicita%C3%A7%C3%A3o/brainstorm/">BT01</a> agrega <a href="../../elicita%C3%A7%C3%A3o/introspeccao/">INT04</a></p>
+<h3 id="ef15">EF15</h3>
+<p><strong>Categoria:</strong> --</p>
+<p><strong>Elos:</strong> --</p>
+<h3 id="ef16">EF16</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C04</a> representa <a href="../../modelagem/casos/">Caso 4</a></p>
+<h3 id="ef17">EF17</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Consultar o Veículo</a> representa RF17<br>
+Agregação: <a href="../../modelagem/cenarios/">C04</a> agrega <a href="../../modelagem/lexico/">Léxico: Consultar o Veículo</a><br>
+Agregação: <a href="../../modelagem/casos/">Caso 4</a> agrega RF17</p>
+<h3 id="ef18">EF18</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Agregação: <a href="../../modelagem/cenarios/">C04</a> agrega RF18<br></p>
+<h3 id="ef19">EF19</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 4</a> agrega RF19</p>
+<h3 id="ef20">EF20</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 4</a> agrega RF20</p>
+<h3 id="ef21">EF21</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/lexico/">Léxico: Agendamento</a> representa RF21<br>
+Agregação: <a href="../../modelagem/cenarios/">C04</a> agrega <a href="../../modelagem/lexico/">Léxico: Agendamento</a>
+Representação: <a href="../../modelagem/casos/">Caso 4</a> representa <a href="../../modelagem/cenarios/">C04</a></p>
+<h3 id="ef22">EF22</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa <a href="../../modelagem/lexico/">Léxico: CNH</a>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa <a href="../../modelagem/cenarios/">C05</a></p>
+<h3 id="ef23">EF23</h3>
+<p><strong>Categoria:</strong> --</p>
+<p><strong>Elos:</strong> --</p>
+<h3 id="ef24">EF24</h3>
+<p><strong>Categoria:</strong> --</p>
+<p><strong>Elos:</strong> --</p>
+<h3 id="ef25">EF25</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa RF25</p>
+<h3 id="ef26">EF26</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa <a href="../../modelagem/lexico/">Léxico: CNH</a>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa <a href="../../modelagem/cenarios/">C05</a></p>
+<h3 id="ef27">EF27</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa RF27</p>
+<h3 id="ef28">EF28</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa RF28<br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa <a href="../../modelagem/cenarios/">C05</a></p>
+<h3 id="ef29">EF29</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C05</a> representa RF29<br>]
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa <a href="../../modelagem/cenarios/">C05</a></p>
+<h3 id="ef30">EF30</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa RF30</p>
+<h3 id="ef31">EF31</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/casos/">Caso 3</a> representa RF31</p>
+<h3 id="ef32">EF32</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C06</a> representa <a href="../../modelagem/lexico/">Léxico: Visualizar Multa</a>
+Representação: <a href="../../modelagem/casos/">Caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a></p>
+<h3 id="ef33">EF33</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C06</a> representa <a href="../../modelagem/lexico/">Léxico: Consultar Pontos</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a></p>
+<h3 id="ef34">EF34</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C06</a> representa RF34</p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a></p>
+<h3 id="ef35">EF35</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C06</a> representa <a href="../../modelagem/lexico/">Léxico: Visualizar Multa</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a></p>
+<h3 id="ef36">EF36</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef37">EF37</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef38">EF38</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef39">EF39</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef40">EF40</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef41">EF41</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C07</a> representa <a href="../../modelagem/lexico/">Léxico: Agendamento</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 6</a> representa <a href="../../modelagem/cenarios/">C07</a></p>
+<h3 id="ef42">EF42</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/backlog/epConta/#3-us03---alterar-email">US03</a> representa RF42</p>
+<h3 id="ef43">EF43</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/backlog/epConta/">US04</a> representa RF42</p>
+<h3 id="ef44">EF44</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C01</a> representa <a href="../../modelagem/lexico/">Léxico: Login</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 2</a> representa <a href="../../modelagem/cenarios/">C01</a></p>
+<h3 id="ef45">EF45</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C01</a> representa <a href="../../modelagem/lexico/">Léxico: Login</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 1</a> representa <a href="../../modelagem/cenarios/">C01</a></p>
+<p>Representação: <a href="../../modelagem/backlog/epConta/">US05</a> representa RF45</p>
+<h3 id="ef46">EF46</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C01</a> representa <a href="../../modelagem/lexico/">Léxico: Registrar</a></p>
+<p>Representação: <a href="../../modelagem/backlog/epConta/">US06</a> representa RF46</p>
+<h3 id="ef47">EF47</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C06</a> representa <a href="../../modelagem/lexico/">Léxico: Consultar Pontos</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 5</a> representa <a href="../../modelagem/cenarios/">C06</a></p>
+<h3 id="ef48">EF48</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Representação: <a href="../../modelagem/cenarios/">C02</a> representa <a href="../../modelagem/lexico/">Léxico: Registrar</a></p>
+<p>Representação: <a href="../../modelagem/casos/">Caso 1</a> representa <a href="../../modelagem/cenarios/">C01</a></p>
+<p>Representação: <a href="../../modelagem/backlog/epConta/">US01</a> representa RF48</p>
+<h2 id="6-elos-nao-funcionais"><strong>6. Elos não funcionais</strong></h2>
+<h3 id="enf01">ENF01</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Agregação: <a href="../../modelagem/especificacao/">RNF1</a> agrega <a href="../../modelagem/especificacao/#41-sobre-o-furps">Suportabilidade</a></p>
+<h3 id="enf02">ENF02</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Agregação: <a href="../../modelagem/especificacao/">RNF2</a> agrega <a href="../../modelagem/especificacao/#41-sobre-o-furps">Performance</a></p>
+<h3 id="enf03">ENF03</h3>
+<p><strong>Categoria:</strong> Desenvolvimento</p>
+<p><strong>Elos:</strong> <br>
+Agregação: <a href="../../modelagem/especificacao/">RNF3</a> agrega <a href="../../modelagem/especificacao/#41-sobre-o-furps">Performance</a></p>
+<h2 id="referencias">Referências</h2>
+<blockquote>
+<p>Slides da aula 26 de requisitos de software UnB-FGA, Milene Serrano e Maurício Serrano</p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th align="center">Data</th>
+<th align="center">Descrição</th>
+<th align="center">Autor</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0.1</td>
+<td align="center">24/08/2022</td>
+<td align="center">Criação do documento e adição das rastreabilidades funcionais 1 ao 16 e não funcional 1</td>
+<td align="center">Alex</td>
+<td align="center">Arthur</td>
+</tr>
+<tr>
+<td align="center">0.2</td>
+<td align="center">24/08/2022</td>
+<td align="center">Adição das rastreabilidades funcionais 16 ao 32 e não funcional 2</td>
+<td align="center">Arthur</td>
+<td align="center">Matheus</td>
+</tr>
+<tr>
+<td align="center">0.3</td>
+<td align="center">24/08/2022</td>
+<td align="center">Adição das rastreabilidades funcionais 32 ao 48 e não funcional 3</td>
+<td align="center">Matheus</td>
+<td align="center">Alex</td>
+</tr>
+<tr>
+<td align="center">0.4</td>
+<td align="center">05/09/2022</td>
+<td align="center">Adição de chamada das tabelas</td>
+<td align="center">Alex</td>
+<td align="center">Thiago</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+      
+        
+        <a href="../matriz_geral/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Matriz Geral" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Matriz Geral
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../forward_from/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Forward-From" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Forward-From
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version.title": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.2ab50757.min.js"></script>
+      
+    
+  </body>
+</html>
