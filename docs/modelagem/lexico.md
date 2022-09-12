@@ -165,6 +165,42 @@ Abaixo segue a tabela com as informação sobre o léxico:
 
 <h6 align = "center">Tabela 10: Léxico Consultar o Veículo</h6>
 
+### 3.11 Léxico: Transferir Veículo
+Abaixo segue a tabela com as informação sobre o léxico:
+
+<center>
+
+|    Léxico     | Transferir o Veículo                                                                    |
+|:-------------:|:---------------------------------------------------------------------------------------|
+|     Noção     | Transferir a posse do veiculo para outra pessoa                                                   |
+| Classificação | Verbo                                                                                  |
+|   Impactos    | O [usuário](#31-lxico-usurio) pode transferir a posse legal do veiculo para outro cidadão |
+|   Sinônimos   | Enviar, Vender, Comprar                                                         |
+
+</center>
+
+<h6 align = "center">Tabela 11: Léxico Consultar o Veículo</h6>
+
+### 3.12 Léxico: Emitir documentação do Veículo
+Abaixo segue a tabela com as informação sobre o léxico:
+
+<center>
+
+|    Léxico     | Emitir o documento                                                                    |
+|:-------------:|:---------------------------------------------------------------------------------------|
+|     Noção     | Emitir documentação do dono do veiculo                                                   |
+| Classificação | Verbo                                                                                  |
+|   Impactos    | O [usuário](#31-lxico-usurio) pode emitir os documentos referentes ao seu veiculo em posse |
+|   Sinônimos   | Consultar, emitir, acessar                                                         |
+
+</center>
+
+<h6 align = "center">Tabela 12: Léxico Consultar o Veículo</h6>
+
+
+
+
+
 ## 4. Referências Bibliográfias
 > SAYÃO, Miriam. et al. Construção do léxico de aplicações. PUC-RS. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 19 de julho de 2022.
 

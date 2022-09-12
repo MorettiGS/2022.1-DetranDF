@@ -25,7 +25,7 @@ A tabela abaixo ilustra o épico **Conta**:
 - Deve ler as credenciais do usuário.
 - Deve checar se as credenciais do usuário são validas.
 - Deve liberar acesso do usuário à plataforma.
-### 3. US03 - Alterar email
+### 3. US03 - Alterar email 
 &emsp;&emsp;Eu, como **usuário**, gostaria de **alterar email** para poder **utilizar um novo email no sistema**.
 #### 3.1 Criterios de aceitação
 - Deve pedir que o usuário envie suas credenciais.
@@ -59,3 +59,4 @@ A tabela abaixo ilustra o épico **Conta**:
 | Versão | Data | Descrição | Autor | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 0.1 | 01/08/2022 | Criação do documento | Thiago Gomes e Paulo Gontijo | Alex Gabriel e Matheus Costa |
+|0.2|07/09/2022|Unificação dos documentos de histórias de usuário|Alex|Matheus|
